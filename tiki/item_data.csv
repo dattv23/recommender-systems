@@ -1,0 +1,235 @@
+id,title,author,total_rating,number_of_rating,publisher,cover_type,page_count,categories
+1,Ủ Phân Hữu Cơ (for Dummies),"Cathy Cromell,",4.7,93,Nhà Xuất Bản Công Thương,Bìa mềm,300,khoa-hoc-ky-thuat
+2,Hướng dẫn thiết kế lắp đặt mạng điện dân dụng (tái bản),"Nguyễn Trọng Thắng, Trần Thề San",4.3,63,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,224,khoa-hoc-ky-thuat
+3,Hệ Thống Điện - Điện Tử Trên Ô Tô Đời Mới (Phần Cơ Bản),,4.6,10,Nhà Xuất Bản Thanh Niên,Bìa mềm,424,khoa-hoc-ky-thuat
+4,Hướng Dẫn Đọc Sơ Đồ Mạch Điện,Trần Thế San - Tăng Văn Mùi,4.5,158,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,135,khoa-hoc-ky-thuat
+5,Kỹ Thuật Chẩn Đoán Lỗi Và Sửa Chữa Ô Tô,,4.8,62,Nhà Xuất Bản Hà Nội,Bìa mềm,220,khoa-hoc-ky-thuat
+6,Cơ Thể Tự Chữa Lành - Giải Cứu Não - Tác Giả Anthony William (HH),Anthony William,0,0,Nhà Xuất Bản Thanh Niên,Bìa mềm,,khoa-hoc-ky-thuat
+7,Khoa Học Khám Phá - Mật Mã - Từ Cổ Điển Đến Lượng Tử (Tái Bản),Simon Singh,4.9,103,NXB Trẻ,Bìa mềm,552,khoa-hoc-ky-thuat
+8,PLC Lập Trình Ứng Dụng Trong Công Nghiệp (tái bản),Trần Thế San - Nguyễn Ngọc Phương,4.4,30,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,128,khoa-hoc-ky-thuat
+9,Hướng Dẫn Tự Lắp Ráp 100 Mạch Điện - Điện Tử,Châu Ngọc Thạch - Trịnh Xuân Thu,4.2,94,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,211,khoa-hoc-ky-thuat
+10,Sổ Tay Chuyên Ngành Điện,,4.0,1,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,224,khoa-hoc-ky-thuat
+11,Kỹ Thuật Thi Công - Tập 1 (Tái bản năm 2020),,0,0,Nhà Xuất Bản Xây Dựng,,,khoa-hoc-ky-thuat
+12,Huyễn Tưởng Về Trí Tuệ Nhân Tạo,Gary Smith,4.5,19,Nhà Xuất Bản Thế Giới,Bìa mềm,420,khoa-hoc-ky-thuat
+13,Xử Lý Nước Thải (Wastewater Treatment) - Tập 2,"GS. TS. NGND. Trần Hiếu Nhuệ,",4.8,38,Nhà Xuất Bản Xây Dựng,Bìa mềm,300,khoa-hoc-ky-thuat
+14,Điện Công Nghiệp Và Điều Khiển Động Cơ,"Nguyễn Trọng Thắng, Trần Thề San",4.8,93,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,286,khoa-hoc-ky-thuat
+15,Khoa Học Khám Phá - Vũ Trụ Toàn Ảnh,Michael Talbot,5.0,1,NXB Trẻ,Bìa mềm,516,khoa-hoc-ky-thuat
+16,Thiết Kế Mạch Và Lập Trình PLC,Trần Thế San - Nguyễn Ngọc Phương,4.7,40,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,230,khoa-hoc-ky-thuat
+17,Toán Học - Một Thiên Tiểu Thuyết,Mickaël Launay,4.8,471,Nhà Xuất Bản Thế Giới,Bìa mềm,332,khoa-hoc-ky-thuat
+18,Giáo Trình Vi Điều Khiển ARM. Hướng Dẫn Sử Dụng STM32,.,4.8,27,Nhà Xuất Bản Thanh Niên,Bìa mềm,440,khoa-hoc-ky-thuat
+19,Sổ Tay Chuyên Ngành Hàn,Trần Thế San - Tăng Văn Mùi,4.5,17,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,271,khoa-hoc-ky-thuat
+20,Thời Đại AI Và Tương Lai Loài Người Chúng Ta,,5.0,1,NXB Trẻ,Bìa gập,220,khoa-hoc-ky-thuat
+21,Chiếc Thìa Biến Mất,Sam Kean,4.9,73,Nhà Xuất Bản Thế Giới,Bìa mềm,404,khoa-hoc-ky-thuat
+22,Sách - OPTIMAL DESIGN METHODS - Các Phương Pháp Thiết Kế Tối Ưu- NXB XÂY DỰNG- Bìa Mềm- Tặng Kèm Sổ Tay Xương Rồng,,0,0,Nhà Xuất Bản Xây Dựng,Bìa mềm,216,khoa-hoc-ky-thuat
+23,Tần Số Rung Động - Quyền Năng Tiến Hóa Của Linh Hồn,Penney Peirce,0,0,Nhà Xuất Bản Hà Nội,Bìa mềm,432,khoa-hoc-ky-thuat
+24,CƠ HỌC LƯỢNG TỬ & THUYẾT TƯƠNG ĐỐI – Hai trụ cột của vật lý hiện đại – GS Phạm Xuân Yêm - Nxb Tri Thức (Bìa mềm),,5.0,1,Nhà Xuất Bản Tri Thức,Bìa mềm,490,khoa-hoc-ky-thuat
+25,Thiết Kế Kết Cấu Bê Tông Cốt Thép Theo Tiêu Chuẩn Eurocode - Cơ Sở Lý Thuyết Và Ví Dụ Áp Dụng,PGS.TS. Bùi Quốc Bảo,4.7,46,Nhà Xuất Bản Xây Dựng,Bìa mềm,212,khoa-hoc-ky-thuat
+26,Hệ Thống Điều Khiển Tự Động Khí Nén,Nguyễn Ngọc Phương - Nguyễn Trường Thịnh,4.4,16,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,287,khoa-hoc-ky-thuat
+27,Hệ Thống Nhiệt và Điều Hoà Trên Xe Hơi Đời Mới tb,Trần Thế San - Trần Duy Nam,4.7,9,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,232,khoa-hoc-ky-thuat
+28,Trí Tuệ Nhân Tạo Học Máy Và Ứng Dụng ( Tặng sổ tay),"Nguyễn Tất Bảo Thiện,",4.2,6,Nhà Xuất Bản Thanh Niên,Bìa mềm,432,khoa-hoc-ky-thuat
+29,Các Thế Giới Song Song (Tái Bản 2018),Michio Kaku,4.9,76,,Bìa mềm,480,khoa-hoc-ky-thuat
+30,Mở Khóa Vũ Trụ - Unlocking The Universe,"Stephen Hawking,",0,0,Nhà Xuất Bản Thế Giới,,,khoa-hoc-ky-thuat
+31,Luật Tâm Thức - Tập 2 - Vũ Trụ Nhất Nguyên Luận - Bìa Cứng,...,4.2,5,Đang cập nhật,Bìa cứng,,khoa-hoc-ky-thuat
+32,Mô Hình Đất Nền Địa Kỹ Thuật Ứng Dụng Trong Plaxis Software - Tập 1,Trà Thanh Phương,4.8,4,Nhà Xuất Bản Xây Dựng,Bìa mềm,180,khoa-hoc-ky-thuat
+33,Mô Hình Đất Nền Địa Kỹ Thuật Ứng Dụng Trong Plaxis Software - Tập 1 ( Tặng sổ tay xương rồng ),Trà Thanh Phương,4.0,1,Nhà Xuất Bản Xây Dựng,Bìa mềm,180,khoa-hoc-ky-thuat
+34,Sổ Tay Thực Hành Kết Cấu Công Trình,,4.6,36,Nhà Xuất Bản Xây Dựng,,,khoa-hoc-ky-thuat
+35,Chế Độ Cắt Gia Công Cơ Khí,,0,0,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,256,khoa-hoc-ky-thuat
+36,Thiết Kế Liên Kết Trong Kết Cấu Thép Theo Tiêu Chuẩn Mỹ AISC/LRFD 360-16,"Trần Văn Phúc,",4.8,42,Nhà Xuất Bản Xây Dựng,Bìa mềm,192,khoa-hoc-ky-thuat
+37,Tủ Sách Nhất Nghệ Tinh - Chuyên Ngành Kỹ Thuật Chất Dẻo,Nhiều tác giả,4.8,40,NXB Trẻ,Bìa mềm,652,khoa-hoc-ky-thuat
+38,Toán học kỳ thú: Những điều bạn chưa biết về toán học (Đỗ Minh Triết) - Bản Quyền,,0,0,Nhà Xuất Bản Thế Giới,,,khoa-hoc-ky-thuat
+39,Thiết Kế Kiến Trúc Cảnh Quan Khu Ở,,4.4,9,Nhà Xuất Bản Xây Dựng,,,khoa-hoc-ky-thuat
+40,Lỗ Đen: Các Bài Diễn Thuyết Trên Đài,Stephen Hawking,4.8,162,NXB Trẻ,Bìa mềm,76,khoa-hoc-ky-thuat
+41,Sổ Tay Lập Trình CNC,Trần Thế San - Nguyễn Ngọc Phương,4.7,52,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,456,khoa-hoc-ky-thuat
+42,Sàn BêTông Cốt Thép Toàn Khối (Tái bản),,4.8,5,Nhà Xuất Bản Xây Dựng,Bìa mềm,164,khoa-hoc-ky-thuat
+43,Đầu tư phát triển bất động sản và quản lý dự án đầu tư xây dựng,,4.7,3,Nhà Xuất Bản Tài Chính,Bìa mềm,340,khoa-hoc-ky-thuat
+44,Mở khóa vũ trụ (Unlocking the Universe) (Stephen Hawking & Lucy Hawking)  - Bản Quyền,,0,0,Nhà Xuất Bản Thế Giới,,,khoa-hoc-ky-thuat
+45,Cuốn Sách Hay Về Kiến Thức Y Học- Giải Mã Hoóc-Môn Dopamin,,0,0,Nhà Xuất Bản Thế Giới,,,khoa-hoc-ky-thuat
+46,"Đô Thị Thông Minh, Tương Lai Xán Lạn: Bản Trình Diễn Về Tương Lai",Trần Thị Mỹ Duyên,4.8,21,NXB Trẻ,Bìa mềm,346,khoa-hoc-ky-thuat
+47,Phương Pháp Nghiên Cứu Khoa Học,"Nguyễn Đăng Bình,",4.8,8,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,160,khoa-hoc-ky-thuat
+48,Quản Lý Dự Án Trong Giai Đoạn Xây Dựng,"Đinh Tuấn Hải,",0,0,,Bìa mềm,398,khoa-hoc-ky-thuat
+49,Kỹ Thuật Quấn Dây,,4.6,27,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,208,khoa-hoc-ky-thuat
+50,HỆ THỐNG THUỶ LỰC TRÊN MÁY CÔNG NGHIỆP,,5.0,1,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,192,khoa-hoc-ky-thuat
+51,"50 THỦ THUẬT TOÁN ( 50 math tricks ) - cuốn sách như giáo trình tập gym cho não bộ - Á Châu Books, Bìa mềm",nhieu tac gia,0,0,Nhà Xuất Bản Lao Động,Bìa mềm,208,khoa-hoc-ky-thuat
+52,"Kỹ Thuật Nuôi Gà, Ngan, Vịt",,5.0,4,Nhà Xuất Bản Hà Nội,Bìa mềm tay gấp,204,khoa-hoc-ky-thuat
+53,HƯỚNG DẪN THIẾT KẾ LẮP RÁP ROBOT ( Từ các linh kiện thông dụng),Trần Thế San - Nguyễn Ngọc Phương,4.7,25,Nhà Xuất Bản Khoa học và Kỹ thuật,Bìa mềm,312,khoa-hoc-ky-thuat
+54,Tính Toán Thiết Kế Nhà Cao Tầng Theo TCVN Và Tiêu Chuẩn Châu Âu (Eurocode),ThS. Đặng Tỉnh,5.0,3,Nhà Xuất Bản Xây Dựng,Bìa mềm,226,khoa-hoc-ky-thuat
+55,How Philosophy Works - Hiểu Hết Về Triết Học,DK,4.8,178,Nhà Xuất Bản Thế Giới,Bìa cứng,268,sach-kien-thuc-tong-hop
+56,Sách Chiêm Tinh - Ứng Dụng Trong Y Học (Cuộc hành trình vạn dặm của Linh Hồn),Trần Việt Quân,0,0,Nhà Xuất Bản Hồng Đức,Bìa cứng,341,sach-kien-thuc-tong-hop
+57,Combo 2 Cuốn: Tâm Lý Học Tội Phạm,Stanton E. Samenow,4.8,1928,Nhà Xuất Bản Đại Học Kinh Tế Quốc Dân,Bìa mềm,664,sach-kien-thuc-tong-hop
+58,Đàn Ông Sao Hỏa Đàn Bà Sao Kim - Tặng kèm 1 bookmar hình ngẫu nhiên như hình,John Gray,4.0,1,Nhà Xuất Bản Hồng Đức,Bìa mềm,485,sach-kien-thuc-tong-hop
+59,Những Tù Nhân Của Địa Lý,Tim Marshall,4.8,4079,Nhà Xuất Bản Hội Nhà Văn,Bìa cứng,430,sach-kien-thuc-tong-hop
+60,Cà Insider No.1 - SENSORY - Chạm Cà Phê Từ Mọi Giác Quan,Julie Đặng,4.9,107,,,,sach-kien-thuc-tong-hop
+61,The Little Book - Giải Mã Bùa Chú,Astrid Carvel,0,0,Nhà Xuất Bản Hồng Đức,Bìa mềm,128,sach-kien-thuc-tong-hop
+62,Phong Thủy Cho Người Mua Nhà Chung Cư,,4.9,86,nxb thanh nien,Bìa mềm,450,sach-kien-thuc-tong-hop
+63,Tarot Toàn Thư - Đọc Vận Mệnh Qua Những Lá Bài,Anthony Louis,4.9,328,Nhà Xuất Bản Thế Giới,Bìa cứng,304,sach-kien-thuc-tong-hop
+64,"Sách Kỳ Quan Thế Giới ( World's Greatest Wonders ) - Hình ảnh Minh Họa 3D Giới Thiệu Chi Tiết Về 30 Kỳ Quan Thiên Nhiên Và Nhân Tạo Tuyệt Đẹp - Á Châu Books, Bìa Cứng, In Màu",Joyce Meyer,4.6,17,Nhà Xuất Bản Lao Động Hà Nội,Bìa cứng,256,sach-kien-thuc-tong-hop
+65,Nhà Tư Tưởng Lớn - Nietzsche Trong 60 Phút,Walther Ziegler,4.9,73,Nhà Xuất Bản Hồng Đức,Bìa mềm,224,sach-kien-thuc-tong-hop
+66,Thần Số Học,Hans Decoz,4.8,299,Nhà Xuất Bản Thanh Niên,Bìa mềm,392,sach-kien-thuc-tong-hop
+67,Combo 2 Cuốn: Osho Đàn Ông + Osho Phụ Nữ,Osho,4.9,441,Nhà Xuất Bản Hà Nội,Bìa mềm,325,sach-kien-thuc-tong-hop
+68,Tam Thế Thư (Bìa cứng),Gia Cát Lượng,4.6,19,Nhà Xuất Bản Hồng Đức,Bìa cứng,380,sach-kien-thuc-tong-hop
+69,Lên Tàu Cùng Socrates - Đi Tìm Ý Nghĩa Cuộc Sống Từ Các Triết Gia,Eric Weiner,4.8,62,NXB Trẻ,,436,sach-kien-thuc-tong-hop
+70,"Combo 2 Cuốn Sách Bách Khoa Toàn Thư - Kỳ Quan Thế Giới, Bí Ẩn Của Lịch Sử- Tổng Hợp Kiến Thức Về Lịch Sử, Địa Lý, Du Lịch Khám Phá Thế Giới - Á Châu Books Bìa Cứng, In Màu",nhieu tac gia,5.0,3,Nhà Xuất Bản Lao Động,Bìa cứng,510,sach-kien-thuc-tong-hop
+71,Toàn Thư Chiêm Tinh Học Nhập Môn,Joanna Martine Woolfolk,4.9,1090,Nhà Xuất Bản Thế Giới,Bìa cứng,508,sach-kien-thuc-tong-hop
+72,Câu Chuyện Ngôn Ngữ,David Crystal,4.9,274,Nhà Xuất Bản Thế Giới,Bìa mềm,336,sach-kien-thuc-tong-hop
+73,Hành Trình Tarot (Tái Bản 2022),TADA Project,4.9,195,Nhà Xuất Bản Thế Giới,Bìa mềm,240,sach-kien-thuc-tong-hop
+74,Khuyến Học (Tái Bản),Fukuzawa Yukichi,4.9,712,Nhà Xuất Bản Thế Giới,Bìa mềm,248,sach-kien-thuc-tong-hop
+75,Cái Dũng Của Thánh Nhân (Thu Giang Nguyễn Duy Cần) (Tái Bản),Thu Giang Nguyễn Duy Cần,4.9,232,NXB Trẻ,Bìa mềm,168,sach-kien-thuc-tong-hop
+76,Thần Số Học Ứng Dụng,Joy Woodward,4.8,1708,Nhà Xuất Bản Thanh Niên,Bìa mềm,280,sach-kien-thuc-tong-hop
+77,Tĩnh Lặng,Thích Nhất Hạnh,4.9,286,Nhà Xuất Bản Thế Giới,Bìa mềm,188,sach-kien-thuc-tong-hop
+78,Bàn Tay Ánh Sáng,Barbara Ann Brennan,5.0,70,Nhà Xuất Bản Thế Giới,Bìa mềm,624,sach-kien-thuc-tong-hop
+79,Chiêm Tinh Học Cơ Bản - Luận Giải Cuộc Đời Qua Biểu Đồ Chiêm Tinh,"M.A.,",5.0,4,Nhà Xuất Bản Thế Giới,Bìa cứng,400,sach-kien-thuc-tong-hop
+80,Power Vs Force - Trường Năng Lượng Và Những Nhân Tố Quyết Định Hành Vi Của Con Người (Tái Bản),David R.Hawkins,4.9,537,Nhà Xuất Bản Thế Giới,Bìa mềm,398,sach-kien-thuc-tong-hop
+81,How Technology Works – Hiểu hết về công nghệ,DK,4.9,80,Nhà Xuất Bản Thế Giới,Bìa cứng,258,sach-kien-thuc-tong-hop
+82,Dịch Kinh Tường Giải (Di Cảo): Quyển Thượng (Tái Bản),Thu Giang Nguyễn Duy Cần,4.9,225,NXB Trẻ,Bìa cứng,548,sach-kien-thuc-tong-hop
+83,Vị Thần Của Những Quyết Định,Universe,4.8,1161,Nhà Xuất Bản Thế Giới,Bìa mềm,320,sach-kien-thuc-tong-hop
+84,Combo 2Q sách sức khỏe: Cơ Thể Ta Đã Hai Triệu Năm - Giải Mã Các Căn Bệnh Thời Hiện Đại + Điều Kỳ Diệu Của Vận Động (Tặng Kèm Bookmark),,5.0,1,Nhiều Nhà Xuất Bản,,,sach-kien-thuc-tong-hop
+85,Nhập Môn Lịch Sử Tâm Lý Học,B.R. HERGENHAHN,5.0,2,Nhà Xuất Bản Hồng Đức,Bìa mềm,688,sach-kien-thuc-tong-hop
+86,Huyền Thuật Và Các Đạo Sĩ Tây Tạng (Tái Bản),Alexandra David Neel,4.9,89,Nhà Xuất Bản Thế Giới,Bìa mềm,280,sach-kien-thuc-tong-hop
+87,Sách OSHO - Trò Chuyện Với Vĩ Nhân,Osho,4.9,572,Nhà Xuất Bản Văn Hóa - Văn Nghệ,Bìa gập,396,sach-kien-thuc-tong-hop
+88,Sổ Tay Nhà Thôi Miên,Cao Minh,4.7,1189,Nhà Xuất Bản Đà Nẵng,Bìa mềm,352,sach-kien-thuc-tong-hop
+89,Bí Mật Âm Dương Ngũ Hành (Bìa Cứng),Lý Kế Dũng,4.5,6,Nhà Xuất Bản Hồng Đức,Bìa mềm,560,sach-kien-thuc-tong-hop
+90,Lịch Sử Vú,Marilyn Yalom,4.9,69,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,500,sach-kien-thuc-tong-hop
+91,"Chúng Ta Học Thế Nào - How We Learn (Sự Thật Khó Tin Về Việc Học Nó Diễn Ra Khi Nào, Ở Đâu , Và Tại Sao)",Benedict Carey,4.8,231,Nhà Xuất Bản Thế Giới,Bìa mềm,404,sach-kien-thuc-tong-hop
+92,Bộ Thẻ Rèn Trí Sáng Suốt mới (Nâng cấp thay thế cho bộ Thẻ Chánh Kiến) - Sản phẩm tâm huyết thầy Trần Việt Quân,Trần Việt Quân,0,0,Nhà Xuất Bản Thông Tin Và Truyền Thông,Bìa cứng,128,sach-kien-thuc-tong-hop
+93,Tôn Tử Binh Pháp (Tái Bản),Tôn Tử,4.8,79,Nhà Xuất Bản Dân Trí,Bìa cứng,130,sach-kien-thuc-tong-hop
+94,Sách Mật Mã Sức Khoẻ Hoàn Hảo - Hệ Bạch Huyết - Khởi Nguồn Sự Sống,,5.0,1,Nhà Xuất Bản Dân Trí,Bìa mềm,386,sach-kien-thuc-tong-hop
+95,Được Học - Educated (Tái Bản),Tara Westover,4.9,255,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,446,sach-kien-thuc-tong-hop
+96,Sự Trỗi Dạy Và Suy Tàn Của Đế Chế Thứ 3 (Tái Bản),William L.Shirer,4.6,171,Nhà Xuất Bản Thông Tin Và Truyền Thông,Bìa cứng,1504,sach-kien-thuc-tong-hop
+97,COMBO TỰ HỌC TAROT: Sách Nhật ký Tarot + Bộ Bài & Sách Hướng Dẫn (Tái bản 2022),Brigit Esselmont,4.8,66,Nhà Xuất Bản Thế Giới,Bìa mềm,88,sach-kien-thuc-tong-hop
+98,Nghề Thầy,Hoàng Đạo Thúy,4.8,224,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,156,sach-kien-thuc-tong-hop
+99,Thần Số Học: Thấu Hiểu Nhân Tâm,Tống Khánh Thượng,4.7,55,Nhà Xuất Bản Công Thương,Bìa mềm,238,sach-kien-thuc-tong-hop
+100,Sống Bán Nông Bán X - Tâm Lý Mới Về Cuộc Sống Điền Viên,Shiomi Naoki,4.8,33,Nhà Xuất Bản Dân Trí,Bìa mềm,332,sach-kien-thuc-tong-hop
+101,Stephen Hawking - Trả Lời Ngắn Gọn Những Câu Hỏi Lớn,Stephen Hawking,4.9,289,NXB Trẻ,Bìa mềm,204,sach-kien-thuc-tong-hop
+102,Sách - Combo 3 Cuốn Thánh Hiền Thư : Lý Tài + Cầu Học + Tu Thân (Bộ Sách Minh Triết Phương Đông) - Sbooks,"Dương Thu Ái, Nguyễn Kim Hanh",4.9,33,nxb van hoc,Bìa mềm,1756,sach-kien-thuc-tong-hop
+103,Thuật Yêu Đương (Tái Bản),Nguyễn Duy Cần,4.9,213,NXB Trẻ,Bìa mềm,336,sach-kien-thuc-tong-hop
+104,"Thần Với Chả Thoại (Những Câu Chuyện ""Mệt Mỏi"" Về Các Vị Thần)",Fanpage Thần với chả Thoại,4.8,234,Nhà Xuất Bản Dân Trí,Bìa cứng,228,sach-kien-thuc-tong-hop
+105,Nhân Loại - Một Lịch Sử Tràn Đầy Hi Vọng,Rutger Bregman,4.8,104,Nhà Xuất Bản Mỹ Thuật,Bìa mềm,482,sach-kien-thuc-tong-hop
+106,Nhật Ký Tarot,Brigit Esselmont,4.9,317,Nhà Xuất Bản Thế Giới,Bìa mềm,328,sach-kien-thuc-tong-hop
+107,Tarot Nhập Môn (Tái Bản 2019),Kim Huggens,4.8,533,Nhà Xuất Bản Hà Nội,Bìa mềm,455,sach-kien-thuc-tong-hop
+108,Khoa Học Về Yoga,Ann Swanson,4.8,398,Nhà Xuất Bản Thế Giới,Bìa cứng,220,sach-kien-thuc-tong-hop
+109,Combo 2 Cuốn: Kế Toán Tài Chính (Tập 1 & 2),Trần Xuân Nam (Maastricht MBA),4.7,79,Nhà Xuất Bản Tài Chính,Bìa mềm,1360,sach-kinh-te
+110,Sách Người Giàu Có Nhất Thành Babylon (Tái Bản 2020),GEORGE SAMUEL CLASON,5.0,22,Nhà Xuất Bản Tổng hợp TP.HCM,Bìa gập,216,sach-kinh-te
+111,Suy Nghĩ Thống Kê Trong Đời Thường,Nguyễn Văn Tuấn,4.9,170,Nhà Xuất Bản Tổng hợp TP.HCM,Bìa mềm,392,sach-kinh-te
+112,Sách Tài Chính Cá Nhân Cho Người Việt Nam - Tặng Khóa học Online về Tài chính,Lâm Minh Chánh,4.7,1788,Nhà Xuất Bản Phụ Nữ,Bìa mềm,235,sach-kinh-te
+113,Mô Hình Biểu Đồ - Phương pháp Hiệu quả để Tìm kiếm Lợi nhuận,,4.7,411,Nhà Xuất Bản Thanh Niên,Bìa cứng,487,sach-kinh-te
+114,Khởi Nghiệp Bán Lẻ - Bí Quyết Thành Công Và Giàu Có Bằng Những Cửa Hàng Đông Khách - Công Thức Kinh Doanh Và Quản Lý Cửa Hàng Hiệu Quả,Trần Thanh Phong,4.8,2305,Nhà Xuất Bản Đà Nẵng,Bìa mềm,272,sach-kinh-te
+115,Bí Mật Của Phan Thiên Ân,Alan Phan,4.8,2412,Nhà Xuất Bản Thế Giới,Bìa mềm,211,sach-kinh-te
+116,"Trend Following – Cách thức để kiếm được VẬN MAY LỚN và GIÀU CÓ trong các thị trường BÒ, GẤU và các sự kiện THIÊN NGA ĐEN",,4.7,129,Nhà Xuất Bản Thế Giới,Bìa rời,836,sach-kinh-te
+117,Siêu Cò – How To Be A Power Connector,Judy Robinett,4.8,2240,Nhà Xuất Bản Thế Giới,Bìa cứng,352,sach-kinh-te
+118,Chiến Tranh Tiền Tệ - Phần 1 - Ai Thực Sự Là Người Giàu Nhất Thế Giới ( Tái Bản 2022),Song Hong Bing,4.9,752,Nhà Xuất Bản Lao Động,Bìa mềm,532,sach-kinh-te
+119,Chiến Tranh Tiền Tệ: Sự Thống Trị Của Quyền Lực Tài Chính - Tặng Kèm Sổ Tay,Song Hongbing,4.4,34,Nhà Xuất Bản Lao Động,Bìa mềm,614,sach-kinh-te
+120,Dạy Con Làm Giàu (Tập 1) - Để Không Có Tiền Vẫn Tạo Ra Tiền - Cha Giàu Cha Nghèo (Tái Bản),Robert T. Kiyosaki,4.8,3542,NXB Trẻ,Bìa mềm,193,sach-kinh-te
+121,Chiến Tranh Tiền Tệ - Tập 4,Song Hong Bing,4.9,245,Nhà Xuất Bản Lao Động,Bìa mềm,608,sach-kinh-te
+122,Sách Nghĩ Giàu Và Làm Giàu (Bìa Mềm),Napoleon Hill,4.9,1781,Nhà Xuất Bản Tổng hợp TP.HCM,Bìa mềm,400,sach-kinh-te
+123,Bộ sách Làm Giàu Từ Chứng Khoán (How To Make Money In Stock) phiên bản mới + Hướng Dẫn Thực Hành CANSLIM Cho Người Mới Bắt Đầu,"William J. O’Neil,",4.8,155,Nhà Xuất Bản Thế Giới,Bìa cứng,1044,sach-kinh-te
+124,Từ Tốt Đến Vĩ Đại (Tái bản 2021),,4.7,103,NXB Trẻ,Bìa mềm,,sach-kinh-te
+125,"Thiên Quan Tứ Phúc - Tập 6 (Tiểu thuyết, đam mỹ)",Mặc Hương Đồng Khứu,5.0,237,Nhà Xuất Bản Hà Nội,Bìa mềm,368,sach-van-hoc
+126,Cuốn Tiểu Thuyết Cực Hay Của Diệp Lạc Vô Tâm: Như Chỉ Mới Hôm Qua,Diệp Lạc Vô Tâm,4.9,7,Nhà Xuất Bản Văn Học,Bìa mềm,,sach-van-hoc
+127,Bạch Dạ Hành (Tái Bản),Higashino Keigo,4.8,1125,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,628,sach-van-hoc
+128,COMBO 5 cuốn sách của tác giả Lôi Mễ:: đề thi đẫm máu + Cuồng vọng phi nhân tính + Sông ngầm + Ánh sáng thành phố + Tâm nguyện cuối cùng,,3.0,2,Nhà Xuất Bản Văn Học,,,sach-van-hoc
+129,Hai Số Phận (Bìa Cứng) - Tặng Bookmark Happy Life,Jeffrey Archer,4.9,518,Nhà Xuất Bản Văn Học,Bìa cứng,,sach-van-hoc
+130,Thanh Xuân Ấy Tôi Đã Thương Một Người,Quốc Thái,0,0,Nhà Xuất Bản Hồng Đức,Bìa mềm,240,sach-van-hoc
+131,Chiến Binh Cầu Vồng (Tái Bản 2020),Andrea Hirata,4.8,3380,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,428,sach-van-hoc
+132,Sách - Combo 2 cuốn sách TÌNH YÊU VÀ RANH GIỚI | San Hô Books,,0,0,nxb thanh nien,,,sach-van-hoc
+133,Chào Mừng Đến Lớp Học Đề Cao Thực Lực - 3,Kinugasa Syougo,4.9,170,Nhà Xuất Bản Hà Nội,Bìa mềm,380,sach-van-hoc
+134,"Có Một Ngày, Bố Mẹ Sẽ Già Đi",Nhiều tác giả,4.8,2412,Nhà Xuất Bản Thế Giới,Bìa mềm,296,sach-van-hoc
+135,Chuyện Kể Rằng Có Nàng Và Tôi,Nhiều tác giả,4.8,689,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,152,sach-van-hoc
+136,Giã Từ Thơ Ngây,Park Hyun-Wook,5.0,1,Nhà Xuất Bản Hà Nội,Bìa mềm,192,sach-van-hoc
+137,Tôi Thích Bản Thân Nỗ Lực Hơn (Ấn Bản Kỷ Niệm),Chu Xung,4.8,323,Nhà Xuất Bản Văn Học,Bìa mềm,380,sach-van-hoc
+138,"Thiên Tài Bên Trái, Kẻ Điên Bên Phải (Tái Bản)",Cao Minh,4.8,5425,,,,sach-van-hoc
+139,Trăng Tan Đáy Nước ( Tặng Kèm Bookmark ),Hoàng Yến,5.0,2,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,248,sach-van-hoc
+140,Rừng Nauy (Tái Bản),Haruki Murakami,4.9,1075,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,556,sach-van-hoc
+141,Ngàn Mặt Trời Rực Rỡ (Tái Bản),Khailed Hosseini,4.8,1286,Nhà Xuất Bản Văn Học,Bìa mềm,522,sach-van-hoc
+142,"Dear, Darling",Hiên,4.8,888,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,200,sach-van-hoc
+143,Totto - Chan Bên Cửa Sổ (Tái Bản),Kuroyanagi Tetsuko,4.9,2080,Nhà Xuất Bản Văn Học,Bìa mềm,359,sach-van-hoc
+144,Semantic Error – Lỗi Logic (Tập 2),J.Soori,4.8,644,Nhà Xuất Bản Hà Nội,Bìa mềm,,sach-van-hoc
+145,LÉN NHẶT CHUYỆN ĐỜI - MỘC TRẦM,,4.8,6,Nhà Xuất Bản Thế Giới,Bìa mềm,216,sach-van-hoc
+146,Từ Điển Tiếng “Em”,Khotudien,4.8,5263,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,280,sach-van-hoc
+147,Người Đua Diều (Tái Bản 2018),Khaled Hosseini,4.8,2589,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,460,sach-van-hoc
+148,Hoa Vẫn Nở Mỗi Ngày,Valérie Perrin,4.8,60,Nhà Xuất Bản Hà Nội,Bìa mềm,532,sach-van-hoc
+149,"Chúng Ta Rồi Sẽ Hạnh Phúc, Theo Những Cách Khác Nhau [Tặng Kèm: 01 Bookmark]",Thảo Thảo,4.8,1838,Nhà Xuất Bản Văn Học,Bìa mềm,208,sach-van-hoc
+150,Cây Cam Ngọt Của Tôi,José Mauro de Vasconcelos,4.9,13287,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,244,sach-van-hoc
+151,Combo 2 Cuốn: Yêu Những Điều Không Hoàn Hảo + Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản),Hae Min,4.9,921,Nhiều Nhà Xuất Bản,Bìa mềm,295,sach-van-hoc
+152,Kiêu Hãnh Và Định Kiến (Tái Bản),Jane Austen,4.8,538,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,362,sach-van-hoc
+153,Điều Đẹp Nhất Có Khi Là Buông Tay (Tặng Kèm Bookmark),Thought Catalog,4.8,623,Nhà Xuất Bản Hà Nội,Bìa mềm,160,sach-van-hoc
+154,Sự Im Lặng Của Bầy Cừu (Tái Bản),Thomas Harris,4.8,2702,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,347,sach-van-hoc
+155,Cuốn Truyện Trinh Thám Hấp Dẫn: Di Sản Kinh Hoàng,Lisa Gardner,0,0,Nhà Xuất Bản Văn Học,Bìa mềm,,sach-van-hoc
+156,Cuộc Diễu Hành Thầm Lặng,Higashino Keigo,4.9,252,Nhà Xuất Bản Hà Nội,Bìa mềm,532,sach-van-hoc
+157,Phía Sau Nghi Can X (Tái Bản 2019),Higashino Keigo,4.8,3489,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,396,sach-van-hoc
+158,Kafka bên bờ biển (Tái Bản 2020),Haruki Murakami,5.0,3,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,530,sach-van-hoc
+159,Sách - Sơn trà nở muộn - Giá Oản Chúc ( bản giới hạn tặng: Bookmark bật lửa + Bookmark hoa sơn trà + Postcard),Giá Oản Chúc,5.0,2,Nhà Xuất Bản Thanh Niên,Bìa mềm,648,sach-van-hoc
+160,Như Cơn Gió Thoảng - Nghĩ Về Những Qui Luật Cuộc Sống,Nguyễn Văn Tuấn,4.9,28,NXB Trẻ,,,sach-van-hoc
+161,Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản),Hae Min,4.8,3965,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,256,sach-van-hoc
+162,Hiệu Sách Nhỏ Ở Paris,Nina George,4.8,1196,Nhà Xuất Bản Hà Nội,Bìa mềm,452,sach-van-hoc
+163,Xứ Cát,Frank Herbert,4.7,1285,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,714,sach-van-hoc
+164,Điều Kỳ Diệu Của Tiệm Tạp Hóa NAMIYA (Tái Bản),Higashino Keigo,4.9,4665,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,358,sach-van-hoc
+165,Hiểu Về Trump,Newt Gingrich,5.0,1,Nhà Xuất Bản Công Thương,Bìa mềm,184,sach-van-hoc
+166,Một Thoáng Ta Rực Rỡ Ở Nhân Gian,Ocean Vuong,4.7,13,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,304,sach-van-hoc
+167,Những Ngã Tư Và Những Cột Đèn,Trần Dần,5.0,1,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,650,sach-van-hoc
+168,Nhà Giả Kim (Tái Bản 2020),Paulo Coelho,4.9,5877,Nhà Xuất Bản Hà Nội,Bìa mềm,228,sach-van-hoc
+169,Đại Dương Đen - Những Câu Chuyện Từ Thế Giới Của Trầm Cảm,Đặng Hoàng Giang,4.9,2366,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,322,sach-van-hoc
+170,Xa Ngoài Kia Nơi Loài Tôm Hát - Where The Crawdads Sing,Delia Owens,4.9,646,NXB Trẻ,Bìa mềm,508,sach-van-hoc
+171,Ngày Hôm Nay Cũng Không Quá Tệ,Gu Gyung-Seon,5.0,3,Nhà Xuất Bản Thanh Hóa,Bìa mềm,272,sach-van-hoc
+172,Thư Viện Nửa Đêm,Matt Haig,5.0,2,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,424,sach-van-hoc
+173,Công Chúa Ma Cà Rồng Quyền Năng Chỉ Muốn Có Một Người Em Gái Mà Thôi,Hiironoame,5.0,145,Nhà Xuất Bản Phụ Nữ,Bìa mềm,480,sach-van-hoc
+174,Trường An Ly Ca - Tập 3 : Cao Sơn Lưu Thủy,,5.0,1,Nhà Xuất Bản Hà Nội,,,sach-van-hoc
+175,Yêu Những Điều Không Hoàn Hảo,Hae Min,4.9,3929,Nhà Xuất Bản Thế Giới,Bìa mềm,300,sach-van-hoc
+176,Tôi Nói Gì Khi Nói Về Chạy Bộ,Haruki Murakami,4.9,528,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,235,sach-van-hoc
+177,"Bộ sách Từ Bạn Đời Đến Bạn Đạo: Yêu Trong Tỉnh Thức, Kiến Tạo Gia Đình Hạnh Phúc - Tuệ An",Tuệ An,4.8,124,Nhà Xuất Bản Hồng Đức,Bìa mềm,,tam-ly-gioi-tinh
+178,Trí Thông Minh Trên Giường,Esther Perel,4.6,8,Nhà Xuất Bản Thanh Niên,Bìa mềm,484,tam-ly-gioi-tinh
+179,Yêu Trong Tỉnh Thức - Từ Bạn Đời Đến Bạn Đạo Tập 1,Tuệ An,4.9,139,Nhà Xuất Bản Hồng Đức,Bìa mềm,237,tam-ly-gioi-tinh
+180,Sách - Bình Yên Trong Bão Tố,Tuệ An,4.7,59,Nhà Xuất Bản Hồng Đức,Bìa cứng,268,tam-ly-gioi-tinh
+181,Kiến Tạo Gia Đình Hạnh Phúc - Từ Bạn Đời Đến Bạn Đạo Tập 2,Tuệ An,4.8,29,Nhà Xuất Bản Hồng Đức,Bìa mềm,234,tam-ly-gioi-tinh
+182,Hỏa Ngục,Dan Brown,4.7,297,Nhà Xuất Bản Lao Động,Bìa cứng,688,trinh-tham
+183,Bạch Dạ Hành (Tái Bản),Higashino Keigo,4.8,1125,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,628,trinh-tham
+184,COMBO 5 cuốn sách của tác giả Lôi Mễ:: đề thi đẫm máu + Cuồng vọng phi nhân tính + Sông ngầm + Ánh sáng thành phố + Tâm nguyện cuối cùng,,3.0,2,Nhà Xuất Bản Văn Học,,,trinh-tham
+185,Nhà Ảo Thuật Đen Và Vụ Án Mạng Tại Thị Trấn Không Tên,Higashino Keigo,4.8,553,Nhà Xuất Bản Hà Nội,Bìa mềm,440,trinh-tham
+186,Vụ Án Mạng Ở Nhà Khách Núi Hakuba,Higashino Keigo,4.8,800,Nhà Xuất Bản Hà Nội,Bìa mềm,336,trinh-tham
+187,Thiếu Nữ (Shoujo),Minato Kanae,4.9,51,Nhà Xuất Bản Hà Nội,Bìa mềm,324,trinh-tham
+188,Series Địch Công Kỳ Án Tập 15 - Hoa Văn Cây Liễu,Robert Van Gulik,4.8,40,Nhà Xuất Bản Văn Học,Bìa mềm,240,trinh-tham
+189,Sau Tang Lễ,Agatha Christie,4.9,83,NXB Trẻ,Bìa mềm,368,trinh-tham
+190,Tiểu thuyết trinh thám - Arsène Lupin - Siêu Trộm Hào Hoa - Boxset (trọn bộ 5 cuốn),.,4.2,10,Nhà Xuất Bản Văn Học,Bìa mềm,1800,trinh-tham
+191,Giây Thứ 12 - Tập 2 (Trinh Thám),Sunness,4.8,30,Nhà Xuất Bản Văn Học,Bìa mềm,464,trinh-tham
+192,Chuyện Kỳ Lạ Ở Tiệm Sách Cũ Tanabe,Miyabe Miyuki,4.9,16,Nhà Xuất Bản Thanh Niên,Bìa mềm,360,trinh-tham
+193,Trường An Ly Ca 2 - Vén Mây Thấy Trời,Úc Phức,4.8,80,Nhà Xuất Bản Hà Nội,Bìa mềm,456,trinh-tham
+194,Ảo Dạ (Tái Bản),Higashino Keigo,5.0,18,Nhà Xuất Bản Hà Nội,Bìa mềm,584,trinh-tham
+195,Kẻ Nhắc Tuồng (Tái Bản),Donato Carrisi,4.9,157,Nhà Xuất Bản Phụ Nữ Việt Nam,Bìa mềm,516,trinh-tham
+196,Series Địch Công Kỳ Án Tập 13 - Địch Gia Bát Án,Robert Van Gulik,4.7,43,Nhà Xuất Bản Văn Học,Bìa mềm,372,trinh-tham
+197,Bãi săn người - Trinh Thám Kinh Dị,,4.8,98,Nhà Xuất Bản Văn Học,Bìa mềm,520,trinh-tham
+198,Kẻ Lãng Quên - Pháp Y Tần Minh,Pháp Y Tần Minh,4.9,24,Nhà Xuất Bản Văn Học,Bìa mềm,464,trinh-tham
+199,Bà Tổng Thống Trước Họng Súng - Hai Số Phận - Phần III,Jeffrey Archer,4.8,204,Nhà Xuất Bản Thanh Niên,Bìa cứng,488,trinh-tham
+200,Hung Khí Hoàn Mỹ,Higashino Keigo,4.7,21,Nhà Xuất Bản Hà Nội,Bìa mềm,300,trinh-tham
+201,Bóng Ma Trong Nhà Hát,Gaston Leroux,5.0,1,Nhà Xuất Bản Văn Học,,359,trinh-tham
+202,Bộ Ba Quái Hiệp (Trinh Thám),Edgar Wallace,4.8,101,Nhà Xuất Bản Văn Học,Bìa mềm,420,trinh-tham
+203,Khách Sạn Mặt Nạ 2 - Đêm Trước Lễ Hội Hóa Trang,Higashino Keigo,4.9,387,Nhà Xuất Bản Hà Nội,Bìa mềm,310,trinh-tham
+204,Án Mạng Trên Sông Nile (Agatha Christie)(Tái Bản),Agatha Christie,4.9,292,NXB Trẻ,Bìa mềm,336,trinh-tham
+205,Tội Phạm IQ Thấp,Tử Kim Trần,5.0,10,Nhà Xuất Bản Văn Học,Bìa mềm,552,trinh-tham
+206,Dưới Cánh Đại Bàng (Bìa Mềm),Hoàng Yến,4.9,76,Nhà Xuất Bản Phụ Nữ,Bìa mềm,392,trinh-tham
+207,Velma - Trinh Thám Cổ Điển Phương Tây,Raymond Chandler,4.8,140,Nhà Xuất Bản Văn Học,Bìa mềm,376,trinh-tham
+208,Một Thế Giới Không Có Đàn Bà (Trinh Thám Việt Nam),Bùi Anh Tấn,4.4,14,Nhà Xuất Bản Công An Nhân Dân,Bìa mềm,460,trinh-tham
+209,Án Mạng Mười Một Chữ,Higashino Keigo,4.8,1343,Nhà Xuất Bản Hà Nội,Bìa mềm,260,trinh-tham
+210,Combo Trinh Thám Đen: Cô Dâu Đen + Ám Ảnh Đen + Điểm Hẹn Đen + Kết Hôn Với Người Chết,Cornell Woolrich,4.8,69,nxb van hoc,Bìa mềm,,trinh-tham
+211,Cuốn Truyện Trinh Thám Hấp Dẫn: Di Sản Kinh Hoàng,Lisa Gardner,0,0,Nhà Xuất Bản Văn Học,Bìa mềm,,trinh-tham
+212,Cuộc Diễu Hành Thầm Lặng,Higashino Keigo,4.9,252,Nhà Xuất Bản Hà Nội,Bìa mềm,532,trinh-tham
+213,Khách Sạn Mặt Nạ 1,Higashino Keigo,4.8,421,Nhà Xuất Bản Hà Nội,Bìa mềm,460,trinh-tham
+214,Phía Sau Nghi Can X (Tái Bản 2019),Higashino Keigo,4.8,3489,Nhà Xuất Bản Hội Nhà Văn,Bìa mềm,396,trinh-tham
+215,19 Năm Mưu Sát - Tập 2 (Trinh Thám Trung Quốc),Na Đa,4.7,20,Nhà Xuất Bản Văn Học,Bìa mềm,320,trinh-tham
+216,Combo Truyện Trinh Thám : Cuồng Vọng Phi Nhân Tính + Sông Ngầm ( Sách Trinh Thám Giúp Luyện Não / Tặng Kèm Bookmark Green Life ),,5.0,8,Nhà Xuất Bản Văn Học,Bìa mềm,467,trinh-tham
+217,"Sách Người Tìm Xác tập 1+2 - Truyện trinh thám, linh dị",,4.9,156,Nhà Xuất Bản Hà Nội,,1020,trinh-tham
+218,Combo Trinh Thám Trung Quốc: Phục Thù (2 tập),Hô Diên Vân,4.9,94,Nhà Xuất Bản Văn Học,,,trinh-tham
+219,Mưu Sát - Tử Kim Trần ( Tái Bản ) - Tặng Kèm Sổ Tay,Tử Kim Trần,5.0,1,Nhà Xuất Bản Văn Học,Bìa mềm,419,trinh-tham
+220,Series Địch Công Kỳ Án Tập 16 - Quảng Châu Án,Robert Van Gulik,3.9,7,Nhà Xuất Bản Văn Học,Bìa mềm,460,trinh-tham
+221,Sự Im Lặng Của Bầy Cừu,Thomas Harris,4.6,23,,Bìa mềm,347,trinh-tham
+222,Trường An Ly Ca 1 – Máu Đỏ Hoa Đào,Úc Phức,4.8,97,Nhà Xuất Bản Hà Nội,Bìa mềm,484,trinh-tham
+223,combo ánh sáng thành phố + tâm nguyện cuối cùng + độc giả thứ 7,Lôi Mễ,4.7,3,Nhà Xuất Bản Văn Học,Bìa mềm,,trinh-tham
+224,Hạn Chót Lúc Bình Minh,Cornell Woolrich,3.6,5,Nhà Xuất Bản Văn Học,Bìa mềm,368,trinh-tham
+225,Combo Sherlock Holmes Toàn Tập (Trọn Bộ 3 Tập),Sir Arthur Conan Doyle,4.7,2074,Nhà Xuất Bản Hội Nhà Văn,Bìa cứng,,trinh-tham
+226,Vụ Án Mạng Ở Lữ Quán Kairotei,Higashino Keigo,4.8,845,Nhà Xuất Bản Hà Nội,Bìa mềm,292,trinh-tham
+227,19 Năm Mưu Sát - Tập 1 (Trinh Thám Trung Quốc),Na Đa,4.9,21,Nhà Xuất Bản Văn Học,Bìa mềm,324,trinh-tham
+228,Người Tuyết,Jo Nesbo,5.0,1,Nhà Xuất Bản Hà Nội,Bìa mềm,520,trinh-tham
+229,Combo Trinh Thám Giây Thứ 12 (2 Tập),Sunness,4.5,17,Nhà Xuất Bản Văn Học,Bìa mềm,464,trinh-tham
+230,Vườn Hoa Mạt Dược Ký Sự - Những Kỳ Án Nổi Tiếng Chưa Có Lời Giải (Tặng Kèm 1 Bookmark Chữ Nhật),Hà Mạt Bì,4.8,677,Nhà Xuất Bản Thế Giới,Bìa mềm,400,trinh-tham
+231,Vọng Lâu Tử Thần,Agatha Christie,5.0,82,NXB Trẻ,Bìa mềm,278,trinh-tham
+232,Giây Thứ 12 - Tập 1 (Trinh Thám),Sunness,4.9,33,Nhà Xuất Bản Văn Học,Bìa mềm,420,trinh-tham
+233,Sông Ngầm (Tái Bản),Lôi Mễ,5.0,1,Nhà Xuất Bản Văn Học,Bìa mềm,,trinh-tham
+234,Vụ Án LEROUGE (Trinh Thám),Émile Gaboriau,4.8,79,Nhà Xuất Bản Văn Học,Bìa mềm,540,trinh-tham

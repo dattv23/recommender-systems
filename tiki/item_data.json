@@ -1,0 +1,3044 @@
+[
+    {
+        "id": "1",
+        "title": "Ủ Phân Hữu Cơ (for Dummies)",
+        "author": "Cathy Cromell,",
+        "total_rating": 4.7,
+        "number_of_rating": 93,
+        "publisher": "Nhà Xuất Bản Công Thương",
+        "cover_type": "Bìa mềm",
+        "page_count": "300",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Hướng dẫn thiết kế lắp đặt mạng điện dân dụng (tái bản)",
+        "author": "Nguyễn Trọng Thắng, Trần Thề San",
+        "total_rating": 4.3,
+        "number_of_rating": 63,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "224",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Hệ Thống Điện - Điện Tử Trên Ô Tô Đời Mới (Phần Cơ Bản)",
+        "author": null,
+        "total_rating": 4.6,
+        "number_of_rating": 10,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "424",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Hướng Dẫn Đọc Sơ Đồ Mạch Điện",
+        "author": "Trần Thế San - Tăng Văn Mùi",
+        "total_rating": 4.5,
+        "number_of_rating": 158,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "135",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Kỹ Thuật Chẩn Đoán Lỗi Và Sửa Chữa Ô Tô",
+        "author": null,
+        "total_rating": 4.8,
+        "number_of_rating": 62,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "220",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Cơ Thể Tự Chữa Lành - Giải Cứu Não - Tác Giả Anthony William (HH)",
+        "author": "Anthony William",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Khoa Học Khám Phá - Mật Mã - Từ Cổ Điển Đến Lượng Tử (Tái Bản)",
+        "author": "Simon Singh",
+        "total_rating": 4.9,
+        "number_of_rating": 103,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "552",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "PLC Lập Trình Ứng Dụng Trong Công Nghiệp (tái bản)",
+        "author": "Trần Thế San - Nguyễn Ngọc Phương",
+        "total_rating": 4.4,
+        "number_of_rating": 30,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "128",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Hướng Dẫn Tự Lắp Ráp 100 Mạch Điện - Điện Tử",
+        "author": "Châu Ngọc Thạch - Trịnh Xuân Thu",
+        "total_rating": 4.2,
+        "number_of_rating": 94,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "211",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Sổ Tay Chuyên Ngành Điện",
+        "author": null,
+        "total_rating": 4.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "224",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Kỹ Thuật Thi Công - Tập 1 (Tái bản năm 2020)",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "12",
+        "title": "Huyễn Tưởng Về Trí Tuệ Nhân Tạo",
+        "author": "Gary Smith",
+        "total_rating": 4.5,
+        "number_of_rating": 19,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "420",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Xử Lý Nước Thải (Wastewater Treatment) - Tập 2",
+        "author": "GS. TS. NGND. Trần Hiếu Nhuệ,",
+        "total_rating": 4.8,
+        "number_of_rating": 38,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "300",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "14",
+        "title": "Điện Công Nghiệp Và Điều Khiển Động Cơ",
+        "author": "Nguyễn Trọng Thắng, Trần Thề San",
+        "total_rating": 4.8,
+        "number_of_rating": 93,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "286",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "15",
+        "title": "Khoa Học Khám Phá - Vũ Trụ Toàn Ảnh",
+        "author": "Michael Talbot",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "516",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "16",
+        "title": "Thiết Kế Mạch Và Lập Trình PLC",
+        "author": "Trần Thế San - Nguyễn Ngọc Phương",
+        "total_rating": 4.7,
+        "number_of_rating": 40,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "230",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "17",
+        "title": "Toán Học - Một Thiên Tiểu Thuyết",
+        "author": "Mickaël Launay",
+        "total_rating": 4.8,
+        "number_of_rating": 471,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "332",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "18",
+        "title": "Giáo Trình Vi Điều Khiển ARM. Hướng Dẫn Sử Dụng STM32",
+        "author": ".",
+        "total_rating": 4.8,
+        "number_of_rating": 27,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "440",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "19",
+        "title": "Sổ Tay Chuyên Ngành Hàn",
+        "author": "Trần Thế San - Tăng Văn Mùi",
+        "total_rating": 4.5,
+        "number_of_rating": 17,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "271",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "20",
+        "title": "Thời Đại AI Và Tương Lai Loài Người Chúng Ta",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa gập",
+        "page_count": "220",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "21",
+        "title": "Chiếc Thìa Biến Mất",
+        "author": "Sam Kean",
+        "total_rating": 4.9,
+        "number_of_rating": 73,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "404",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "22",
+        "title": "Sách - OPTIMAL DESIGN METHODS - Các Phương Pháp Thiết Kế Tối Ưu- NXB XÂY DỰNG- Bìa Mềm- Tặng Kèm Sổ Tay Xương Rồng",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "216",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "23",
+        "title": "Tần Số Rung Động - Quyền Năng Tiến Hóa Của Linh Hồn",
+        "author": "Penney Peirce",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "432",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "24",
+        "title": "CƠ HỌC LƯỢNG TỬ & THUYẾT TƯƠNG ĐỐI – Hai trụ cột của vật lý hiện đại – GS Phạm Xuân Yêm - Nxb Tri Thức (Bìa mềm)",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Tri Thức",
+        "cover_type": "Bìa mềm",
+        "page_count": "490",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "25",
+        "title": "Thiết Kế Kết Cấu Bê Tông Cốt Thép Theo Tiêu Chuẩn Eurocode - Cơ Sở Lý Thuyết Và Ví Dụ Áp Dụng",
+        "author": "PGS.TS. Bùi Quốc Bảo",
+        "total_rating": 4.7,
+        "number_of_rating": 46,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "212",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "26",
+        "title": "Hệ Thống Điều Khiển Tự Động Khí Nén",
+        "author": "Nguyễn Ngọc Phương - Nguyễn Trường Thịnh",
+        "total_rating": 4.4,
+        "number_of_rating": 16,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "287",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "27",
+        "title": "Hệ Thống Nhiệt và Điều Hoà Trên Xe Hơi Đời Mới tb",
+        "author": "Trần Thế San - Trần Duy Nam",
+        "total_rating": 4.7,
+        "number_of_rating": 9,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "232",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "28",
+        "title": "Trí Tuệ Nhân Tạo Học Máy Và Ứng Dụng ( Tặng sổ tay)",
+        "author": "Nguyễn Tất Bảo Thiện,",
+        "total_rating": 4.2,
+        "number_of_rating": 6,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "432",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "29",
+        "title": "Các Thế Giới Song Song (Tái Bản 2018)",
+        "author": "Michio Kaku",
+        "total_rating": 4.9,
+        "number_of_rating": 76,
+        "publisher": "",
+        "cover_type": "Bìa mềm",
+        "page_count": "480",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "30",
+        "title": "Mở Khóa Vũ Trụ - Unlocking The Universe",
+        "author": "Stephen Hawking,",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "31",
+        "title": "Luật Tâm Thức - Tập 2 - Vũ Trụ Nhất Nguyên Luận - Bìa Cứng",
+        "author": "...",
+        "total_rating": 4.2,
+        "number_of_rating": 5,
+        "publisher": "Đang cập nhật",
+        "cover_type": "Bìa cứng",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "32",
+        "title": "Mô Hình Đất Nền Địa Kỹ Thuật Ứng Dụng Trong Plaxis Software - Tập 1",
+        "author": "Trà Thanh Phương",
+        "total_rating": 4.8,
+        "number_of_rating": 4,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "180",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "33",
+        "title": "Mô Hình Đất Nền Địa Kỹ Thuật Ứng Dụng Trong Plaxis Software - Tập 1 ( Tặng sổ tay xương rồng )",
+        "author": "Trà Thanh Phương",
+        "total_rating": 4.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "180",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "34",
+        "title": "Sổ Tay Thực Hành Kết Cấu Công Trình",
+        "author": null,
+        "total_rating": 4.6,
+        "number_of_rating": 36,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "35",
+        "title": "Chế Độ Cắt Gia Công Cơ Khí",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "256",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "36",
+        "title": "Thiết Kế Liên Kết Trong Kết Cấu Thép Theo Tiêu Chuẩn Mỹ AISC/LRFD 360-16",
+        "author": "Trần Văn Phúc,",
+        "total_rating": 4.8,
+        "number_of_rating": 42,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "192",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "37",
+        "title": "Tủ Sách Nhất Nghệ Tinh - Chuyên Ngành Kỹ Thuật Chất Dẻo",
+        "author": "Nhiều tác giả",
+        "total_rating": 4.8,
+        "number_of_rating": 40,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "652",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "38",
+        "title": "Toán học kỳ thú: Những điều bạn chưa biết về toán học (Đỗ Minh Triết) - Bản Quyền",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "39",
+        "title": "Thiết Kế Kiến Trúc Cảnh Quan Khu Ở",
+        "author": null,
+        "total_rating": 4.4,
+        "number_of_rating": 9,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "40",
+        "title": "Lỗ Đen: Các Bài Diễn Thuyết Trên Đài",
+        "author": "Stephen Hawking",
+        "total_rating": 4.8,
+        "number_of_rating": 162,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "76",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "41",
+        "title": "Sổ Tay Lập Trình CNC",
+        "author": "Trần Thế San - Nguyễn Ngọc Phương",
+        "total_rating": 4.7,
+        "number_of_rating": 52,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "456",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "42",
+        "title": "Sàn BêTông Cốt Thép Toàn Khối (Tái bản)",
+        "author": null,
+        "total_rating": 4.8,
+        "number_of_rating": 5,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "164",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "43",
+        "title": "Đầu tư phát triển bất động sản và quản lý dự án đầu tư xây dựng",
+        "author": null,
+        "total_rating": 4.7,
+        "number_of_rating": 3,
+        "publisher": "Nhà Xuất Bản Tài Chính",
+        "cover_type": "Bìa mềm",
+        "page_count": "340",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "44",
+        "title": "Mở khóa vũ trụ (Unlocking the Universe) (Stephen Hawking & Lucy Hawking)  - Bản Quyền",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "45",
+        "title": "Cuốn Sách Hay Về Kiến Thức Y Học- Giải Mã Hoóc-Môn Dopamin",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "46",
+        "title": "Đô Thị Thông Minh, Tương Lai Xán Lạn: Bản Trình Diễn Về Tương Lai",
+        "author": "Trần Thị Mỹ Duyên",
+        "total_rating": 4.8,
+        "number_of_rating": 21,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "346",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "47",
+        "title": "Phương Pháp Nghiên Cứu Khoa Học",
+        "author": "Nguyễn Đăng Bình,",
+        "total_rating": 4.8,
+        "number_of_rating": 8,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "160",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "48",
+        "title": "Quản Lý Dự Án Trong Giai Đoạn Xây Dựng",
+        "author": "Đinh Tuấn Hải,",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "",
+        "cover_type": "Bìa mềm",
+        "page_count": "398",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "49",
+        "title": "Kỹ Thuật Quấn Dây",
+        "author": null,
+        "total_rating": 4.6,
+        "number_of_rating": 27,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "208",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "50",
+        "title": "HỆ THỐNG THUỶ LỰC TRÊN MÁY CÔNG NGHIỆP",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "192",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "51",
+        "title": "50 THỦ THUẬT TOÁN ( 50 math tricks ) - cuốn sách như giáo trình tập gym cho não bộ - Á Châu Books, Bìa mềm",
+        "author": "nhieu tac gia",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Lao Động",
+        "cover_type": "Bìa mềm",
+        "page_count": "208",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "52",
+        "title": "Kỹ Thuật Nuôi Gà, Ngan, Vịt",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 4,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm tay gấp",
+        "page_count": "204",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "53",
+        "title": "HƯỚNG DẪN THIẾT KẾ LẮP RÁP ROBOT ( Từ các linh kiện thông dụng)",
+        "author": "Trần Thế San - Nguyễn Ngọc Phương",
+        "total_rating": 4.7,
+        "number_of_rating": 25,
+        "publisher": "Nhà Xuất Bản Khoa học và Kỹ thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "312",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "54",
+        "title": "Tính Toán Thiết Kế Nhà Cao Tầng Theo TCVN Và Tiêu Chuẩn Châu Âu (Eurocode)",
+        "author": "ThS. Đặng Tỉnh",
+        "total_rating": 5.0,
+        "number_of_rating": 3,
+        "publisher": "Nhà Xuất Bản Xây Dựng",
+        "cover_type": "Bìa mềm",
+        "page_count": "226",
+        "categories": [
+            "khoa-hoc-ky-thuat"
+        ]
+    },
+    {
+        "id": "55",
+        "title": "How Philosophy Works - Hiểu Hết Về Triết Học",
+        "author": "DK",
+        "total_rating": 4.8,
+        "number_of_rating": 178,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "268",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "56",
+        "title": "Sách Chiêm Tinh - Ứng Dụng Trong Y Học (Cuộc hành trình vạn dặm của Linh Hồn)",
+        "author": "Trần Việt Quân",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa cứng",
+        "page_count": "341",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "57",
+        "title": "Combo 2 Cuốn: Tâm Lý Học Tội Phạm",
+        "author": "Stanton E. Samenow",
+        "total_rating": 4.8,
+        "number_of_rating": 1928,
+        "publisher": "Nhà Xuất Bản Đại Học Kinh Tế Quốc Dân",
+        "cover_type": "Bìa mềm",
+        "page_count": "664",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "58",
+        "title": "Đàn Ông Sao Hỏa Đàn Bà Sao Kim - Tặng kèm 1 bookmar hình ngẫu nhiên như hình",
+        "author": "John Gray",
+        "total_rating": 4.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "485",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "59",
+        "title": "Những Tù Nhân Của Địa Lý",
+        "author": "Tim Marshall",
+        "total_rating": 4.8,
+        "number_of_rating": 4079,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa cứng",
+        "page_count": "430",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "60",
+        "title": "Cà Insider No.1 - SENSORY - Chạm Cà Phê Từ Mọi Giác Quan",
+        "author": "Julie Đặng",
+        "total_rating": 4.9,
+        "number_of_rating": 107,
+        "publisher": "",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "61",
+        "title": "The Little Book - Giải Mã Bùa Chú",
+        "author": "Astrid Carvel",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "128",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "62",
+        "title": "Phong Thủy Cho Người Mua Nhà Chung Cư",
+        "author": null,
+        "total_rating": 4.9,
+        "number_of_rating": 86,
+        "publisher": "nxb thanh nien",
+        "cover_type": "Bìa mềm",
+        "page_count": "450",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "63",
+        "title": "Tarot Toàn Thư - Đọc Vận Mệnh Qua Những Lá Bài",
+        "author": "Anthony Louis",
+        "total_rating": 4.9,
+        "number_of_rating": 328,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "304",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "64",
+        "title": "Sách Kỳ Quan Thế Giới ( World's Greatest Wonders ) - Hình ảnh Minh Họa 3D Giới Thiệu Chi Tiết Về 30 Kỳ Quan Thiên Nhiên Và Nhân Tạo Tuyệt Đẹp - Á Châu Books, Bìa Cứng, In Màu",
+        "author": "Joyce Meyer",
+        "total_rating": 4.6,
+        "number_of_rating": 17,
+        "publisher": "Nhà Xuất Bản Lao Động Hà Nội",
+        "cover_type": "Bìa cứng",
+        "page_count": "256",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "65",
+        "title": "Nhà Tư Tưởng Lớn - Nietzsche Trong 60 Phút",
+        "author": "Walther Ziegler",
+        "total_rating": 4.9,
+        "number_of_rating": 73,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "224",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "66",
+        "title": "Thần Số Học",
+        "author": "Hans Decoz",
+        "total_rating": 4.8,
+        "number_of_rating": 299,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "392",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "67",
+        "title": "Combo 2 Cuốn: Osho Đàn Ông + Osho Phụ Nữ",
+        "author": "Osho",
+        "total_rating": 4.9,
+        "number_of_rating": 441,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "325",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "68",
+        "title": "Tam Thế Thư (Bìa cứng)",
+        "author": "Gia Cát Lượng",
+        "total_rating": 4.6,
+        "number_of_rating": 19,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa cứng",
+        "page_count": "380",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "69",
+        "title": "Lên Tàu Cùng Socrates - Đi Tìm Ý Nghĩa Cuộc Sống Từ Các Triết Gia",
+        "author": "Eric Weiner",
+        "total_rating": 4.8,
+        "number_of_rating": 62,
+        "publisher": "NXB Trẻ",
+        "cover_type": "",
+        "page_count": "436",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "70",
+        "title": "Combo 2 Cuốn Sách Bách Khoa Toàn Thư - Kỳ Quan Thế Giới, Bí Ẩn Của Lịch Sử- Tổng Hợp Kiến Thức Về Lịch Sử, Địa Lý, Du Lịch Khám Phá Thế Giới - Á Châu Books Bìa Cứng, In Màu",
+        "author": "nhieu tac gia",
+        "total_rating": 5.0,
+        "number_of_rating": 3,
+        "publisher": "Nhà Xuất Bản Lao Động",
+        "cover_type": "Bìa cứng",
+        "page_count": "510",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "71",
+        "title": "Toàn Thư Chiêm Tinh Học Nhập Môn",
+        "author": "Joanna Martine Woolfolk",
+        "total_rating": 4.9,
+        "number_of_rating": 1090,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "508",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "72",
+        "title": "Câu Chuyện Ngôn Ngữ",
+        "author": "David Crystal",
+        "total_rating": 4.9,
+        "number_of_rating": 274,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "336",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "73",
+        "title": "Hành Trình Tarot (Tái Bản 2022)",
+        "author": "TADA Project",
+        "total_rating": 4.9,
+        "number_of_rating": 195,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "240",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "74",
+        "title": "Khuyến Học (Tái Bản)",
+        "author": "Fukuzawa Yukichi",
+        "total_rating": 4.9,
+        "number_of_rating": 712,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "248",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "75",
+        "title": "Cái Dũng Của Thánh Nhân (Thu Giang Nguyễn Duy Cần) (Tái Bản)",
+        "author": "Thu Giang Nguyễn Duy Cần",
+        "total_rating": 4.9,
+        "number_of_rating": 232,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "168",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "76",
+        "title": "Thần Số Học Ứng Dụng",
+        "author": "Joy Woodward",
+        "total_rating": 4.8,
+        "number_of_rating": 1708,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "280",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "77",
+        "title": "Tĩnh Lặng",
+        "author": "Thích Nhất Hạnh",
+        "total_rating": 4.9,
+        "number_of_rating": 286,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "188",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "78",
+        "title": "Bàn Tay Ánh Sáng",
+        "author": "Barbara Ann Brennan",
+        "total_rating": 5.0,
+        "number_of_rating": 70,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "624",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "79",
+        "title": "Chiêm Tinh Học Cơ Bản - Luận Giải Cuộc Đời Qua Biểu Đồ Chiêm Tinh",
+        "author": "M.A.,",
+        "total_rating": 5.0,
+        "number_of_rating": 4,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "400",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "80",
+        "title": "Power Vs Force - Trường Năng Lượng Và Những Nhân Tố Quyết Định Hành Vi Của Con Người (Tái Bản)",
+        "author": "David R.Hawkins",
+        "total_rating": 4.9,
+        "number_of_rating": 537,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "398",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "81",
+        "title": "How Technology Works – Hiểu hết về công nghệ",
+        "author": "DK",
+        "total_rating": 4.9,
+        "number_of_rating": 80,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "258",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "82",
+        "title": "Dịch Kinh Tường Giải (Di Cảo): Quyển Thượng (Tái Bản)",
+        "author": "Thu Giang Nguyễn Duy Cần",
+        "total_rating": 4.9,
+        "number_of_rating": 225,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa cứng",
+        "page_count": "548",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "83",
+        "title": "Vị Thần Của Những Quyết Định",
+        "author": "Universe",
+        "total_rating": 4.8,
+        "number_of_rating": 1161,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "320",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "84",
+        "title": "Combo 2Q sách sức khỏe: Cơ Thể Ta Đã Hai Triệu Năm - Giải Mã Các Căn Bệnh Thời Hiện Đại + Điều Kỳ Diệu Của Vận Động (Tặng Kèm Bookmark)",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhiều Nhà Xuất Bản",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "85",
+        "title": "Nhập Môn Lịch Sử Tâm Lý Học",
+        "author": "B.R. HERGENHAHN",
+        "total_rating": 5.0,
+        "number_of_rating": 2,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "688",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "86",
+        "title": "Huyền Thuật Và Các Đạo Sĩ Tây Tạng (Tái Bản)",
+        "author": "Alexandra David Neel",
+        "total_rating": 4.9,
+        "number_of_rating": 89,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "280",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "87",
+        "title": "Sách OSHO - Trò Chuyện Với Vĩ Nhân",
+        "author": "Osho",
+        "total_rating": 4.9,
+        "number_of_rating": 572,
+        "publisher": "Nhà Xuất Bản Văn Hóa - Văn Nghệ",
+        "cover_type": "Bìa gập",
+        "page_count": "396",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "88",
+        "title": "Sổ Tay Nhà Thôi Miên",
+        "author": "Cao Minh",
+        "total_rating": 4.7,
+        "number_of_rating": 1189,
+        "publisher": "Nhà Xuất Bản Đà Nẵng",
+        "cover_type": "Bìa mềm",
+        "page_count": "352",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "89",
+        "title": "Bí Mật Âm Dương Ngũ Hành (Bìa Cứng)",
+        "author": "Lý Kế Dũng",
+        "total_rating": 4.5,
+        "number_of_rating": 6,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "560",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "90",
+        "title": "Lịch Sử Vú",
+        "author": "Marilyn Yalom",
+        "total_rating": 4.9,
+        "number_of_rating": 69,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "500",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "91",
+        "title": "Chúng Ta Học Thế Nào - How We Learn (Sự Thật Khó Tin Về Việc Học Nó Diễn Ra Khi Nào, Ở Đâu , Và Tại Sao)",
+        "author": "Benedict Carey",
+        "total_rating": 4.8,
+        "number_of_rating": 231,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "404",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "92",
+        "title": "Bộ Thẻ Rèn Trí Sáng Suốt mới (Nâng cấp thay thế cho bộ Thẻ Chánh Kiến) - Sản phẩm tâm huyết thầy Trần Việt Quân",
+        "author": "Trần Việt Quân",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Thông Tin Và Truyền Thông",
+        "cover_type": "Bìa cứng",
+        "page_count": "128",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "93",
+        "title": "Tôn Tử Binh Pháp (Tái Bản)",
+        "author": "Tôn Tử",
+        "total_rating": 4.8,
+        "number_of_rating": 79,
+        "publisher": "Nhà Xuất Bản Dân Trí",
+        "cover_type": "Bìa cứng",
+        "page_count": "130",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "94",
+        "title": "Sách Mật Mã Sức Khoẻ Hoàn Hảo - Hệ Bạch Huyết - Khởi Nguồn Sự Sống",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Dân Trí",
+        "cover_type": "Bìa mềm",
+        "page_count": "386",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "95",
+        "title": "Được Học - Educated (Tái Bản)",
+        "author": "Tara Westover",
+        "total_rating": 4.9,
+        "number_of_rating": 255,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "446",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "96",
+        "title": "Sự Trỗi Dạy Và Suy Tàn Của Đế Chế Thứ 3 (Tái Bản)",
+        "author": "William L.Shirer",
+        "total_rating": 4.6,
+        "number_of_rating": 171,
+        "publisher": "Nhà Xuất Bản Thông Tin Và Truyền Thông",
+        "cover_type": "Bìa cứng",
+        "page_count": "1504",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "97",
+        "title": "COMBO TỰ HỌC TAROT: Sách Nhật ký Tarot + Bộ Bài & Sách Hướng Dẫn (Tái bản 2022)",
+        "author": "Brigit Esselmont",
+        "total_rating": 4.8,
+        "number_of_rating": 66,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "88",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "98",
+        "title": "Nghề Thầy",
+        "author": "Hoàng Đạo Thúy",
+        "total_rating": 4.8,
+        "number_of_rating": 224,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "156",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "99",
+        "title": "Thần Số Học: Thấu Hiểu Nhân Tâm",
+        "author": "Tống Khánh Thượng",
+        "total_rating": 4.7,
+        "number_of_rating": 55,
+        "publisher": "Nhà Xuất Bản Công Thương",
+        "cover_type": "Bìa mềm",
+        "page_count": "238",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "100",
+        "title": "Sống Bán Nông Bán X - Tâm Lý Mới Về Cuộc Sống Điền Viên",
+        "author": "Shiomi Naoki",
+        "total_rating": 4.8,
+        "number_of_rating": 33,
+        "publisher": "Nhà Xuất Bản Dân Trí",
+        "cover_type": "Bìa mềm",
+        "page_count": "332",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "101",
+        "title": "Stephen Hawking - Trả Lời Ngắn Gọn Những Câu Hỏi Lớn",
+        "author": "Stephen Hawking",
+        "total_rating": 4.9,
+        "number_of_rating": 289,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "204",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "102",
+        "title": "Sách - Combo 3 Cuốn Thánh Hiền Thư : Lý Tài + Cầu Học + Tu Thân (Bộ Sách Minh Triết Phương Đông) - Sbooks",
+        "author": "Dương Thu Ái, Nguyễn Kim Hanh",
+        "total_rating": 4.9,
+        "number_of_rating": 33,
+        "publisher": "nxb van hoc",
+        "cover_type": "Bìa mềm",
+        "page_count": "1756",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "103",
+        "title": "Thuật Yêu Đương (Tái Bản)",
+        "author": "Nguyễn Duy Cần",
+        "total_rating": 4.9,
+        "number_of_rating": 213,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "336",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "104",
+        "title": "Thần Với Chả Thoại (Những Câu Chuyện \"Mệt Mỏi\" Về Các Vị Thần)",
+        "author": "Fanpage Thần với chả Thoại",
+        "total_rating": 4.8,
+        "number_of_rating": 234,
+        "publisher": "Nhà Xuất Bản Dân Trí",
+        "cover_type": "Bìa cứng",
+        "page_count": "228",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "105",
+        "title": "Nhân Loại - Một Lịch Sử Tràn Đầy Hi Vọng",
+        "author": "Rutger Bregman",
+        "total_rating": 4.8,
+        "number_of_rating": 104,
+        "publisher": "Nhà Xuất Bản Mỹ Thuật",
+        "cover_type": "Bìa mềm",
+        "page_count": "482",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "106",
+        "title": "Nhật Ký Tarot",
+        "author": "Brigit Esselmont",
+        "total_rating": 4.9,
+        "number_of_rating": 317,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "328",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "107",
+        "title": "Tarot Nhập Môn (Tái Bản 2019)",
+        "author": "Kim Huggens",
+        "total_rating": 4.8,
+        "number_of_rating": 533,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "455",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "108",
+        "title": "Khoa Học Về Yoga",
+        "author": "Ann Swanson",
+        "total_rating": 4.8,
+        "number_of_rating": 398,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "220",
+        "categories": [
+            "sach-kien-thuc-tong-hop"
+        ]
+    },
+    {
+        "id": "109",
+        "title": "Combo 2 Cuốn: Kế Toán Tài Chính (Tập 1 & 2)",
+        "author": "Trần Xuân Nam (Maastricht MBA)",
+        "total_rating": 4.7,
+        "number_of_rating": 79,
+        "publisher": "Nhà Xuất Bản Tài Chính",
+        "cover_type": "Bìa mềm",
+        "page_count": "1360",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "110",
+        "title": "Sách Người Giàu Có Nhất Thành Babylon (Tái Bản 2020)",
+        "author": "GEORGE SAMUEL CLASON",
+        "total_rating": 5.0,
+        "number_of_rating": 22,
+        "publisher": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "cover_type": "Bìa gập",
+        "page_count": "216",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "111",
+        "title": "Suy Nghĩ Thống Kê Trong Đời Thường",
+        "author": "Nguyễn Văn Tuấn",
+        "total_rating": 4.9,
+        "number_of_rating": 170,
+        "publisher": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "cover_type": "Bìa mềm",
+        "page_count": "392",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "112",
+        "title": "Sách Tài Chính Cá Nhân Cho Người Việt Nam - Tặng Khóa học Online về Tài chính",
+        "author": "Lâm Minh Chánh",
+        "total_rating": 4.7,
+        "number_of_rating": 1788,
+        "publisher": "Nhà Xuất Bản Phụ Nữ",
+        "cover_type": "Bìa mềm",
+        "page_count": "235",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "113",
+        "title": "Mô Hình Biểu Đồ - Phương pháp Hiệu quả để Tìm kiếm Lợi nhuận",
+        "author": null,
+        "total_rating": 4.7,
+        "number_of_rating": 411,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa cứng",
+        "page_count": "487",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "114",
+        "title": "Khởi Nghiệp Bán Lẻ - Bí Quyết Thành Công Và Giàu Có Bằng Những Cửa Hàng Đông Khách - Công Thức Kinh Doanh Và Quản Lý Cửa Hàng Hiệu Quả",
+        "author": "Trần Thanh Phong",
+        "total_rating": 4.8,
+        "number_of_rating": 2305,
+        "publisher": "Nhà Xuất Bản Đà Nẵng",
+        "cover_type": "Bìa mềm",
+        "page_count": "272",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "115",
+        "title": "Bí Mật Của Phan Thiên Ân",
+        "author": "Alan Phan",
+        "total_rating": 4.8,
+        "number_of_rating": 2412,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "211",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "116",
+        "title": "Trend Following – Cách thức để kiếm được VẬN MAY LỚN và GIÀU CÓ trong các thị trường BÒ, GẤU và các sự kiện THIÊN NGA ĐEN",
+        "author": null,
+        "total_rating": 4.7,
+        "number_of_rating": 129,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa rời",
+        "page_count": "836",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "117",
+        "title": "Siêu Cò – How To Be A Power Connector",
+        "author": "Judy Robinett",
+        "total_rating": 4.8,
+        "number_of_rating": 2240,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "352",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "118",
+        "title": "Chiến Tranh Tiền Tệ - Phần 1 - Ai Thực Sự Là Người Giàu Nhất Thế Giới ( Tái Bản 2022)",
+        "author": "Song Hong Bing",
+        "total_rating": 4.9,
+        "number_of_rating": 752,
+        "publisher": "Nhà Xuất Bản Lao Động",
+        "cover_type": "Bìa mềm",
+        "page_count": "532",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "119",
+        "title": "Chiến Tranh Tiền Tệ: Sự Thống Trị Của Quyền Lực Tài Chính - Tặng Kèm Sổ Tay",
+        "author": "Song Hongbing",
+        "total_rating": 4.4,
+        "number_of_rating": 34,
+        "publisher": "Nhà Xuất Bản Lao Động",
+        "cover_type": "Bìa mềm",
+        "page_count": "614",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "120",
+        "title": "Dạy Con Làm Giàu (Tập 1) - Để Không Có Tiền Vẫn Tạo Ra Tiền - Cha Giàu Cha Nghèo (Tái Bản)",
+        "author": "Robert T. Kiyosaki",
+        "total_rating": 4.8,
+        "number_of_rating": 3542,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "193",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "121",
+        "title": "Chiến Tranh Tiền Tệ - Tập 4",
+        "author": "Song Hong Bing",
+        "total_rating": 4.9,
+        "number_of_rating": 245,
+        "publisher": "Nhà Xuất Bản Lao Động",
+        "cover_type": "Bìa mềm",
+        "page_count": "608",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "122",
+        "title": "Sách Nghĩ Giàu Và Làm Giàu (Bìa Mềm)",
+        "author": "Napoleon Hill",
+        "total_rating": 4.9,
+        "number_of_rating": 1781,
+        "publisher": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "cover_type": "Bìa mềm",
+        "page_count": "400",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "123",
+        "title": "Bộ sách Làm Giàu Từ Chứng Khoán (How To Make Money In Stock) phiên bản mới + Hướng Dẫn Thực Hành CANSLIM Cho Người Mới Bắt Đầu",
+        "author": "William J. O’Neil,",
+        "total_rating": 4.8,
+        "number_of_rating": 155,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa cứng",
+        "page_count": "1044",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "124",
+        "title": "Từ Tốt Đến Vĩ Đại (Tái bản 2021)",
+        "author": null,
+        "total_rating": 4.7,
+        "number_of_rating": 103,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "sach-kinh-te"
+        ]
+    },
+    {
+        "id": "125",
+        "title": "Thiên Quan Tứ Phúc - Tập 6 (Tiểu thuyết, đam mỹ)",
+        "author": "Mặc Hương Đồng Khứu",
+        "total_rating": 5.0,
+        "number_of_rating": 237,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "368",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "126",
+        "title": "Cuốn Tiểu Thuyết Cực Hay Của Diệp Lạc Vô Tâm: Như Chỉ Mới Hôm Qua",
+        "author": "Diệp Lạc Vô Tâm",
+        "total_rating": 4.9,
+        "number_of_rating": 7,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "127",
+        "title": "Bạch Dạ Hành (Tái Bản)",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 1125,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "628",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "128",
+        "title": "COMBO 5 cuốn sách của tác giả Lôi Mễ:: đề thi đẫm máu + Cuồng vọng phi nhân tính + Sông ngầm + Ánh sáng thành phố + Tâm nguyện cuối cùng",
+        "author": null,
+        "total_rating": 3.0,
+        "number_of_rating": 2,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "129",
+        "title": "Hai Số Phận (Bìa Cứng) - Tặng Bookmark Happy Life",
+        "author": "Jeffrey Archer",
+        "total_rating": 4.9,
+        "number_of_rating": 518,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa cứng",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "130",
+        "title": "Thanh Xuân Ấy Tôi Đã Thương Một Người",
+        "author": "Quốc Thái",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "240",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "131",
+        "title": "Chiến Binh Cầu Vồng (Tái Bản 2020)",
+        "author": "Andrea Hirata",
+        "total_rating": 4.8,
+        "number_of_rating": 3380,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "428",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "132",
+        "title": "Sách - Combo 2 cuốn sách TÌNH YÊU VÀ RANH GIỚI | San Hô Books",
+        "author": null,
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "nxb thanh nien",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "133",
+        "title": "Chào Mừng Đến Lớp Học Đề Cao Thực Lực - 3",
+        "author": "Kinugasa Syougo",
+        "total_rating": 4.9,
+        "number_of_rating": 170,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "380",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "134",
+        "title": "Có Một Ngày, Bố Mẹ Sẽ Già Đi",
+        "author": "Nhiều tác giả",
+        "total_rating": 4.8,
+        "number_of_rating": 2412,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "296",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "135",
+        "title": "Chuyện Kể Rằng Có Nàng Và Tôi",
+        "author": "Nhiều tác giả",
+        "total_rating": 4.8,
+        "number_of_rating": 689,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "152",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "136",
+        "title": "Giã Từ Thơ Ngây",
+        "author": "Park Hyun-Wook",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "192",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "137",
+        "title": "Tôi Thích Bản Thân Nỗ Lực Hơn (Ấn Bản Kỷ Niệm)",
+        "author": "Chu Xung",
+        "total_rating": 4.8,
+        "number_of_rating": 323,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "380",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "138",
+        "title": "Thiên Tài Bên Trái, Kẻ Điên Bên Phải (Tái Bản)",
+        "author": "Cao Minh",
+        "total_rating": 4.8,
+        "number_of_rating": 5425,
+        "publisher": "",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "139",
+        "title": "Trăng Tan Đáy Nước ( Tặng Kèm Bookmark )",
+        "author": "Hoàng Yến",
+        "total_rating": 5.0,
+        "number_of_rating": 2,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "248",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "140",
+        "title": "Rừng Nauy (Tái Bản)",
+        "author": "Haruki Murakami",
+        "total_rating": 4.9,
+        "number_of_rating": 1075,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "556",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "141",
+        "title": "Ngàn Mặt Trời Rực Rỡ (Tái Bản)",
+        "author": "Khailed Hosseini",
+        "total_rating": 4.8,
+        "number_of_rating": 1286,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "522",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "142",
+        "title": "Dear, Darling",
+        "author": "Hiên",
+        "total_rating": 4.8,
+        "number_of_rating": 888,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "200",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "143",
+        "title": "Totto - Chan Bên Cửa Sổ (Tái Bản)",
+        "author": "Kuroyanagi Tetsuko",
+        "total_rating": 4.9,
+        "number_of_rating": 2080,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "359",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "144",
+        "title": "Semantic Error – Lỗi Logic (Tập 2)",
+        "author": "J.Soori",
+        "total_rating": 4.8,
+        "number_of_rating": 644,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "145",
+        "title": "LÉN NHẶT CHUYỆN ĐỜI - MỘC TRẦM",
+        "author": null,
+        "total_rating": 4.8,
+        "number_of_rating": 6,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "216",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "146",
+        "title": "Từ Điển Tiếng “Em”",
+        "author": "Khotudien",
+        "total_rating": 4.8,
+        "number_of_rating": 5263,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "280",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "147",
+        "title": "Người Đua Diều (Tái Bản 2018)",
+        "author": "Khaled Hosseini",
+        "total_rating": 4.8,
+        "number_of_rating": 2589,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "460",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "148",
+        "title": "Hoa Vẫn Nở Mỗi Ngày",
+        "author": "Valérie Perrin",
+        "total_rating": 4.8,
+        "number_of_rating": 60,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "532",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "149",
+        "title": "Chúng Ta Rồi Sẽ Hạnh Phúc, Theo Những Cách Khác Nhau [Tặng Kèm: 01 Bookmark]",
+        "author": "Thảo Thảo",
+        "total_rating": 4.8,
+        "number_of_rating": 1838,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "208",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "150",
+        "title": "Cây Cam Ngọt Của Tôi",
+        "author": "José Mauro de Vasconcelos",
+        "total_rating": 4.9,
+        "number_of_rating": 13287,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "244",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "151",
+        "title": "Combo 2 Cuốn: Yêu Những Điều Không Hoàn Hảo + Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản)",
+        "author": "Hae Min",
+        "total_rating": 4.9,
+        "number_of_rating": 921,
+        "publisher": "Nhiều Nhà Xuất Bản",
+        "cover_type": "Bìa mềm",
+        "page_count": "295",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "152",
+        "title": "Kiêu Hãnh Và Định Kiến (Tái Bản)",
+        "author": "Jane Austen",
+        "total_rating": 4.8,
+        "number_of_rating": 538,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "362",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "153",
+        "title": "Điều Đẹp Nhất Có Khi Là Buông Tay (Tặng Kèm Bookmark)",
+        "author": "Thought Catalog",
+        "total_rating": 4.8,
+        "number_of_rating": 623,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "160",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "154",
+        "title": "Sự Im Lặng Của Bầy Cừu (Tái Bản)",
+        "author": "Thomas Harris",
+        "total_rating": 4.8,
+        "number_of_rating": 2702,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "347",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "155",
+        "title": "Cuốn Truyện Trinh Thám Hấp Dẫn: Di Sản Kinh Hoàng",
+        "author": "Lisa Gardner",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "156",
+        "title": "Cuộc Diễu Hành Thầm Lặng",
+        "author": "Higashino Keigo",
+        "total_rating": 4.9,
+        "number_of_rating": 252,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "532",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "157",
+        "title": "Phía Sau Nghi Can X (Tái Bản 2019)",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 3489,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "396",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "158",
+        "title": "Kafka bên bờ biển (Tái Bản 2020)",
+        "author": "Haruki Murakami",
+        "total_rating": 5.0,
+        "number_of_rating": 3,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "530",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "159",
+        "title": "Sách - Sơn trà nở muộn - Giá Oản Chúc ( bản giới hạn tặng: Bookmark bật lửa + Bookmark hoa sơn trà + Postcard)",
+        "author": "Giá Oản Chúc",
+        "total_rating": 5.0,
+        "number_of_rating": 2,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "648",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "160",
+        "title": "Như Cơn Gió Thoảng - Nghĩ Về Những Qui Luật Cuộc Sống",
+        "author": "Nguyễn Văn Tuấn",
+        "total_rating": 4.9,
+        "number_of_rating": 28,
+        "publisher": "NXB Trẻ",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "161",
+        "title": "Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản)",
+        "author": "Hae Min",
+        "total_rating": 4.8,
+        "number_of_rating": 3965,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "256",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "162",
+        "title": "Hiệu Sách Nhỏ Ở Paris",
+        "author": "Nina George",
+        "total_rating": 4.8,
+        "number_of_rating": 1196,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "452",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "163",
+        "title": "Xứ Cát",
+        "author": "Frank Herbert",
+        "total_rating": 4.7,
+        "number_of_rating": 1285,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "714",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "164",
+        "title": "Điều Kỳ Diệu Của Tiệm Tạp Hóa NAMIYA (Tái Bản)",
+        "author": "Higashino Keigo",
+        "total_rating": 4.9,
+        "number_of_rating": 4665,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "358",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "165",
+        "title": "Hiểu Về Trump",
+        "author": "Newt Gingrich",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Công Thương",
+        "cover_type": "Bìa mềm",
+        "page_count": "184",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "166",
+        "title": "Một Thoáng Ta Rực Rỡ Ở Nhân Gian",
+        "author": "Ocean Vuong",
+        "total_rating": 4.7,
+        "number_of_rating": 13,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "304",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "167",
+        "title": "Những Ngã Tư Và Những Cột Đèn",
+        "author": "Trần Dần",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "650",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "168",
+        "title": "Nhà Giả Kim (Tái Bản 2020)",
+        "author": "Paulo Coelho",
+        "total_rating": 4.9,
+        "number_of_rating": 5877,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "228",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "169",
+        "title": "Đại Dương Đen - Những Câu Chuyện Từ Thế Giới Của Trầm Cảm",
+        "author": "Đặng Hoàng Giang",
+        "total_rating": 4.9,
+        "number_of_rating": 2366,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "322",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "170",
+        "title": "Xa Ngoài Kia Nơi Loài Tôm Hát - Where The Crawdads Sing",
+        "author": "Delia Owens",
+        "total_rating": 4.9,
+        "number_of_rating": 646,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "508",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "171",
+        "title": "Ngày Hôm Nay Cũng Không Quá Tệ",
+        "author": "Gu Gyung-Seon",
+        "total_rating": 5.0,
+        "number_of_rating": 3,
+        "publisher": "Nhà Xuất Bản Thanh Hóa",
+        "cover_type": "Bìa mềm",
+        "page_count": "272",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "172",
+        "title": "Thư Viện Nửa Đêm",
+        "author": "Matt Haig",
+        "total_rating": 5.0,
+        "number_of_rating": 2,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "424",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "173",
+        "title": "Công Chúa Ma Cà Rồng Quyền Năng Chỉ Muốn Có Một Người Em Gái Mà Thôi",
+        "author": "Hiironoame",
+        "total_rating": 5.0,
+        "number_of_rating": 145,
+        "publisher": "Nhà Xuất Bản Phụ Nữ",
+        "cover_type": "Bìa mềm",
+        "page_count": "480",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "174",
+        "title": "Trường An Ly Ca - Tập 3 : Cao Sơn Lưu Thủy",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "175",
+        "title": "Yêu Những Điều Không Hoàn Hảo",
+        "author": "Hae Min",
+        "total_rating": 4.9,
+        "number_of_rating": 3929,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "300",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "176",
+        "title": "Tôi Nói Gì Khi Nói Về Chạy Bộ",
+        "author": "Haruki Murakami",
+        "total_rating": 4.9,
+        "number_of_rating": 528,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "235",
+        "categories": [
+            "sach-van-hoc"
+        ]
+    },
+    {
+        "id": "177",
+        "title": "Bộ sách Từ Bạn Đời Đến Bạn Đạo: Yêu Trong Tỉnh Thức, Kiến Tạo Gia Đình Hạnh Phúc - Tuệ An",
+        "author": "Tuệ An",
+        "total_rating": 4.8,
+        "number_of_rating": 124,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "tam-ly-gioi-tinh"
+        ]
+    },
+    {
+        "id": "178",
+        "title": "Trí Thông Minh Trên Giường",
+        "author": "Esther Perel",
+        "total_rating": 4.6,
+        "number_of_rating": 8,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "484",
+        "categories": [
+            "tam-ly-gioi-tinh"
+        ]
+    },
+    {
+        "id": "179",
+        "title": "Yêu Trong Tỉnh Thức - Từ Bạn Đời Đến Bạn Đạo Tập 1",
+        "author": "Tuệ An",
+        "total_rating": 4.9,
+        "number_of_rating": 139,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "237",
+        "categories": [
+            "tam-ly-gioi-tinh"
+        ]
+    },
+    {
+        "id": "180",
+        "title": "Sách - Bình Yên Trong Bão Tố",
+        "author": "Tuệ An",
+        "total_rating": 4.7,
+        "number_of_rating": 59,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa cứng",
+        "page_count": "268",
+        "categories": [
+            "tam-ly-gioi-tinh"
+        ]
+    },
+    {
+        "id": "181",
+        "title": "Kiến Tạo Gia Đình Hạnh Phúc - Từ Bạn Đời Đến Bạn Đạo Tập 2",
+        "author": "Tuệ An",
+        "total_rating": 4.8,
+        "number_of_rating": 29,
+        "publisher": "Nhà Xuất Bản Hồng Đức",
+        "cover_type": "Bìa mềm",
+        "page_count": "234",
+        "categories": [
+            "tam-ly-gioi-tinh"
+        ]
+    },
+    {
+        "id": "182",
+        "title": "Hỏa Ngục",
+        "author": "Dan Brown",
+        "total_rating": 4.7,
+        "number_of_rating": 297,
+        "publisher": "Nhà Xuất Bản Lao Động",
+        "cover_type": "Bìa cứng",
+        "page_count": "688",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "183",
+        "title": "Bạch Dạ Hành (Tái Bản)",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 1125,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "628",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "184",
+        "title": "COMBO 5 cuốn sách của tác giả Lôi Mễ:: đề thi đẫm máu + Cuồng vọng phi nhân tính + Sông ngầm + Ánh sáng thành phố + Tâm nguyện cuối cùng",
+        "author": null,
+        "total_rating": 3.0,
+        "number_of_rating": 2,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "185",
+        "title": "Nhà Ảo Thuật Đen Và Vụ Án Mạng Tại Thị Trấn Không Tên",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 553,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "440",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "186",
+        "title": "Vụ Án Mạng Ở Nhà Khách Núi Hakuba",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 800,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "336",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "187",
+        "title": "Thiếu Nữ (Shoujo)",
+        "author": "Minato Kanae",
+        "total_rating": 4.9,
+        "number_of_rating": 51,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "324",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "188",
+        "title": "Series Địch Công Kỳ Án Tập 15 - Hoa Văn Cây Liễu",
+        "author": "Robert Van Gulik",
+        "total_rating": 4.8,
+        "number_of_rating": 40,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "240",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "189",
+        "title": "Sau Tang Lễ",
+        "author": "Agatha Christie",
+        "total_rating": 4.9,
+        "number_of_rating": 83,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "368",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "190",
+        "title": "Tiểu thuyết trinh thám - Arsène Lupin - Siêu Trộm Hào Hoa - Boxset (trọn bộ 5 cuốn)",
+        "author": ".",
+        "total_rating": 4.2,
+        "number_of_rating": 10,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "1800",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "191",
+        "title": "Giây Thứ 12 - Tập 2 (Trinh Thám)",
+        "author": "Sunness",
+        "total_rating": 4.8,
+        "number_of_rating": 30,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "464",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "192",
+        "title": "Chuyện Kỳ Lạ Ở Tiệm Sách Cũ Tanabe",
+        "author": "Miyabe Miyuki",
+        "total_rating": 4.9,
+        "number_of_rating": 16,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa mềm",
+        "page_count": "360",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "193",
+        "title": "Trường An Ly Ca 2 - Vén Mây Thấy Trời",
+        "author": "Úc Phức",
+        "total_rating": 4.8,
+        "number_of_rating": 80,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "456",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "194",
+        "title": "Ảo Dạ (Tái Bản)",
+        "author": "Higashino Keigo",
+        "total_rating": 5.0,
+        "number_of_rating": 18,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "584",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "195",
+        "title": "Kẻ Nhắc Tuồng (Tái Bản)",
+        "author": "Donato Carrisi",
+        "total_rating": 4.9,
+        "number_of_rating": 157,
+        "publisher": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "cover_type": "Bìa mềm",
+        "page_count": "516",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "196",
+        "title": "Series Địch Công Kỳ Án Tập 13 - Địch Gia Bát Án",
+        "author": "Robert Van Gulik",
+        "total_rating": 4.7,
+        "number_of_rating": 43,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "372",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "197",
+        "title": "Bãi săn người - Trinh Thám Kinh Dị",
+        "author": null,
+        "total_rating": 4.8,
+        "number_of_rating": 98,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "520",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "198",
+        "title": "Kẻ Lãng Quên - Pháp Y Tần Minh",
+        "author": "Pháp Y Tần Minh",
+        "total_rating": 4.9,
+        "number_of_rating": 24,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "464",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "199",
+        "title": "Bà Tổng Thống Trước Họng Súng - Hai Số Phận - Phần III",
+        "author": "Jeffrey Archer",
+        "total_rating": 4.8,
+        "number_of_rating": 204,
+        "publisher": "Nhà Xuất Bản Thanh Niên",
+        "cover_type": "Bìa cứng",
+        "page_count": "488",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "200",
+        "title": "Hung Khí Hoàn Mỹ",
+        "author": "Higashino Keigo",
+        "total_rating": 4.7,
+        "number_of_rating": 21,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "300",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "201",
+        "title": "Bóng Ma Trong Nhà Hát",
+        "author": "Gaston Leroux",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "",
+        "page_count": "359",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "202",
+        "title": "Bộ Ba Quái Hiệp (Trinh Thám)",
+        "author": "Edgar Wallace",
+        "total_rating": 4.8,
+        "number_of_rating": 101,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "420",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "203",
+        "title": "Khách Sạn Mặt Nạ 2 - Đêm Trước Lễ Hội Hóa Trang",
+        "author": "Higashino Keigo",
+        "total_rating": 4.9,
+        "number_of_rating": 387,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "310",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "204",
+        "title": "Án Mạng Trên Sông Nile (Agatha Christie)(Tái Bản)",
+        "author": "Agatha Christie",
+        "total_rating": 4.9,
+        "number_of_rating": 292,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "336",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "205",
+        "title": "Tội Phạm IQ Thấp",
+        "author": "Tử Kim Trần",
+        "total_rating": 5.0,
+        "number_of_rating": 10,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "552",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "206",
+        "title": "Dưới Cánh Đại Bàng (Bìa Mềm)",
+        "author": "Hoàng Yến",
+        "total_rating": 4.9,
+        "number_of_rating": 76,
+        "publisher": "Nhà Xuất Bản Phụ Nữ",
+        "cover_type": "Bìa mềm",
+        "page_count": "392",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "207",
+        "title": "Velma - Trinh Thám Cổ Điển Phương Tây",
+        "author": "Raymond Chandler",
+        "total_rating": 4.8,
+        "number_of_rating": 140,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "376",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "208",
+        "title": "Một Thế Giới Không Có Đàn Bà (Trinh Thám Việt Nam)",
+        "author": "Bùi Anh Tấn",
+        "total_rating": 4.4,
+        "number_of_rating": 14,
+        "publisher": "Nhà Xuất Bản Công An Nhân Dân",
+        "cover_type": "Bìa mềm",
+        "page_count": "460",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "209",
+        "title": "Án Mạng Mười Một Chữ",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 1343,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "260",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "210",
+        "title": "Combo Trinh Thám Đen: Cô Dâu Đen + Ám Ảnh Đen + Điểm Hẹn Đen + Kết Hôn Với Người Chết",
+        "author": "Cornell Woolrich",
+        "total_rating": 4.8,
+        "number_of_rating": 69,
+        "publisher": "nxb van hoc",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "211",
+        "title": "Cuốn Truyện Trinh Thám Hấp Dẫn: Di Sản Kinh Hoàng",
+        "author": "Lisa Gardner",
+        "total_rating": 0,
+        "number_of_rating": 0,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "212",
+        "title": "Cuộc Diễu Hành Thầm Lặng",
+        "author": "Higashino Keigo",
+        "total_rating": 4.9,
+        "number_of_rating": 252,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "532",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "213",
+        "title": "Khách Sạn Mặt Nạ 1",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 421,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "460",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "214",
+        "title": "Phía Sau Nghi Can X (Tái Bản 2019)",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 3489,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa mềm",
+        "page_count": "396",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "215",
+        "title": "19 Năm Mưu Sát - Tập 2 (Trinh Thám Trung Quốc)",
+        "author": "Na Đa",
+        "total_rating": 4.7,
+        "number_of_rating": 20,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "320",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "216",
+        "title": "Combo Truyện Trinh Thám : Cuồng Vọng Phi Nhân Tính + Sông Ngầm ( Sách Trinh Thám Giúp Luyện Não / Tặng Kèm Bookmark Green Life )",
+        "author": null,
+        "total_rating": 5.0,
+        "number_of_rating": 8,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "467",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "217",
+        "title": "Sách Người Tìm Xác tập 1+2 - Truyện trinh thám, linh dị",
+        "author": null,
+        "total_rating": 4.9,
+        "number_of_rating": 156,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "",
+        "page_count": "1020",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "218",
+        "title": "Combo Trinh Thám Trung Quốc: Phục Thù (2 tập)",
+        "author": "Hô Diên Vân",
+        "total_rating": 4.9,
+        "number_of_rating": 94,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "219",
+        "title": "Mưu Sát - Tử Kim Trần ( Tái Bản ) - Tặng Kèm Sổ Tay",
+        "author": "Tử Kim Trần",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "419",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "220",
+        "title": "Series Địch Công Kỳ Án Tập 16 - Quảng Châu Án",
+        "author": "Robert Van Gulik",
+        "total_rating": 3.9,
+        "number_of_rating": 7,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "460",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "221",
+        "title": "Sự Im Lặng Của Bầy Cừu",
+        "author": "Thomas Harris",
+        "total_rating": 4.6,
+        "number_of_rating": 23,
+        "publisher": "",
+        "cover_type": "Bìa mềm",
+        "page_count": "347",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "222",
+        "title": "Trường An Ly Ca 1 – Máu Đỏ Hoa Đào",
+        "author": "Úc Phức",
+        "total_rating": 4.8,
+        "number_of_rating": 97,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "484",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "223",
+        "title": "combo ánh sáng thành phố + tâm nguyện cuối cùng + độc giả thứ 7",
+        "author": "Lôi Mễ",
+        "total_rating": 4.7,
+        "number_of_rating": 3,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "224",
+        "title": "Hạn Chót Lúc Bình Minh",
+        "author": "Cornell Woolrich",
+        "total_rating": 3.6,
+        "number_of_rating": 5,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "368",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "225",
+        "title": "Combo Sherlock Holmes Toàn Tập (Trọn Bộ 3 Tập)",
+        "author": "Sir Arthur Conan Doyle",
+        "total_rating": 4.7,
+        "number_of_rating": 2074,
+        "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+        "cover_type": "Bìa cứng",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "226",
+        "title": "Vụ Án Mạng Ở Lữ Quán Kairotei",
+        "author": "Higashino Keigo",
+        "total_rating": 4.8,
+        "number_of_rating": 845,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "292",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "227",
+        "title": "19 Năm Mưu Sát - Tập 1 (Trinh Thám Trung Quốc)",
+        "author": "Na Đa",
+        "total_rating": 4.9,
+        "number_of_rating": 21,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "324",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "228",
+        "title": "Người Tuyết",
+        "author": "Jo Nesbo",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Hà Nội",
+        "cover_type": "Bìa mềm",
+        "page_count": "520",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "229",
+        "title": "Combo Trinh Thám Giây Thứ 12 (2 Tập)",
+        "author": "Sunness",
+        "total_rating": 4.5,
+        "number_of_rating": 17,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "464",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "230",
+        "title": "Vườn Hoa Mạt Dược Ký Sự - Những Kỳ Án Nổi Tiếng Chưa Có Lời Giải (Tặng Kèm 1 Bookmark Chữ Nhật)",
+        "author": "Hà Mạt Bì",
+        "total_rating": 4.8,
+        "number_of_rating": 677,
+        "publisher": "Nhà Xuất Bản Thế Giới",
+        "cover_type": "Bìa mềm",
+        "page_count": "400",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "231",
+        "title": "Vọng Lâu Tử Thần",
+        "author": "Agatha Christie",
+        "total_rating": 5.0,
+        "number_of_rating": 82,
+        "publisher": "NXB Trẻ",
+        "cover_type": "Bìa mềm",
+        "page_count": "278",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "232",
+        "title": "Giây Thứ 12 - Tập 1 (Trinh Thám)",
+        "author": "Sunness",
+        "total_rating": 4.9,
+        "number_of_rating": 33,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "420",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "233",
+        "title": "Sông Ngầm (Tái Bản)",
+        "author": "Lôi Mễ",
+        "total_rating": 5.0,
+        "number_of_rating": 1,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "",
+        "categories": [
+            "trinh-tham"
+        ]
+    },
+    {
+        "id": "234",
+        "title": "Vụ Án LEROUGE (Trinh Thám)",
+        "author": "Émile Gaboriau",
+        "total_rating": 4.8,
+        "number_of_rating": 79,
+        "publisher": "Nhà Xuất Bản Văn Học",
+        "cover_type": "Bìa mềm",
+        "page_count": "540",
+        "categories": [
+            "trinh-tham"
+        ]
+    }
+]
