@@ -1,0 +1,45 @@
+{
+    "info": {
+        "title": "Sổ Tay Học Tiếng Anh Bằng Hình Ảnh",
+        "author": "PONS"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "Nhân Trí Việt",
+        "Ngày xuất bản": "2018-09-19 10:32:34",
+        "Kích thước": "10 x 16 cm",
+        "Số trang": "208",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Việt Phương",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "153 Đánh giá",
+                "liked_count": "548 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách của Nhân Trí Việt luôn khiến mình hài lòng. Sách nhỏ gọn nhưng nội dung không hề nông. Giấy bóng in màu và thiết kế cực đẹp mắt với hình minh hoạ là hình chụp thật. Các mẫu câu và từ vựng đều có...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệu Thuý",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "30 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

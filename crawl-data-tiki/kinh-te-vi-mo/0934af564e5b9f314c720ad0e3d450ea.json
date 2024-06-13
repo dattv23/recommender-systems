@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Viết Lại Luật Chơi",
+        "author": "Gary Hamel C. K. Prahalad"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 11
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Alphabooks",
+        "Ngày xuất bản": "2018-01-01 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Dịch Giả": "Huyền Trang",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "500",
+        "Nhà xuất bản": "Nhà Xuất Bản Lao Động - Xã Hội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Duong Hoa",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thành Luân",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "110 Đánh giá",
+                "liked_count": "61 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay về chiến lược, cạnh tranh về ngành !"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "nguyen van lan",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "7 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Cuốn sách thú vị về phát triển lợi thế cạnh tranh của doanh nghiệp 1 cách bền vững dựa trên việc xây dựng năng lực cốt lõi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong Hung",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "400 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cường Đỗ Đình",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

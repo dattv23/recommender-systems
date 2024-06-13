@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Chuyện Kỳ Lạ Ở Tiệm Sách Cũ Tanabe",
+        "author": "Miyabe Miyuki"
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 16
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "1980 Books",
+        "Ngày xuất bản": "2023-08-01 00:00:00",
+        "Kích thước": "13 x 20.5 cm",
+        "Dịch Giả": "Lê Hồng",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "360",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Niên"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Đạt Thắng",
+                "date": "Đã tham gia 14 năm",
+                "review_count": "576 Đánh giá",
+                "liked_count": "183 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao nhanh,bao gói kỹ,chất lượng sách đẹp. Rất hài lòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Thanh Phong",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "69 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đóng gói cẩn thận, giao hàng nhanh chóng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tạ  Thị Thúy Hằng",
+                "date": "Đã tham gia 12 năm",
+                "review_count": "92 Đánh giá",
+                "liked_count": "26 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Trinh thám nhẹ nhàng, gồm nhiều câu chuyện nhỏ. Thỉnh thoảng có chút triết lý cuộc sống. Nói chung đọc giải trí ổn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai Thảo",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "144 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Thị Hương Lan",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

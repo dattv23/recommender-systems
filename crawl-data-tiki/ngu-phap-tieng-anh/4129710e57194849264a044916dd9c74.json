@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "My Grammar And I (Thực Hành)",
+        "author": "Daniel Smith"
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 10
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Bloom Books",
+        "Kích thước": "14.5 x 20 (cm)",
+        "Dịch Giả": "Phương Linh",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "272",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trần Xuân Hiếu",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "38 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Very hay ✌️"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hà Nam",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Duy Tây",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tốt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Như",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "17 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải Phạm",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "56 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

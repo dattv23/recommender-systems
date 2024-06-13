@@ -1,0 +1,34 @@
+{
+    "info": {
+        "title": "Giã Từ Thơ Ngây",
+        "author": "Park Hyun-Wook"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2021-04-01 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Dịch Giả": "Hồng Hà",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "192",
+        "Nhà xuất bản": "Nhà Xuất Bản Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Chau Lam",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "28 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "shop giao nhanh nhìn đẹp sịn"
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "info": {
+        "title": "Target Toeic Second Edition (Kèm 6 CD)",
+        "author": "Anne Taylor"
+    },
+    "rating": {
+        "total_rating": 4.3,
+        "number_of_rating": 4
+    },
+    "details": {
+        "Công ty phát hành": "FIRST NEWS",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Đức Tiến",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "115 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bảo Nghi",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang Vũ minh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "216 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": "Gỡ cái mác sách có giá 130 thay vì 196 :)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trường Nguyễn",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "24 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Ok"
+            }
+        }
+    ]
+}

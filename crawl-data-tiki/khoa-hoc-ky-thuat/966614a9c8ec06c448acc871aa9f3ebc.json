@@ -1,0 +1,83 @@
+{
+    "info": {
+        "title": "Trí Tuệ Nhân Tạo Học Máy Và Ứng Dụng ( Tặng sổ tay)",
+        "author": "Nguyễn Tất Bảo Thiện,"
+    },
+    "rating": {
+        "total_rating": 4.2,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "Công Ty TNHH Thương Mại STK",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "432",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Niên"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Tất Thắng",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "88 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khổng Trọng Hiển",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "22 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Trọng Phúc",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh Tran",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "17 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tôn Toại",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "19 Đánh giá",
+                "liked_count": "18 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Sách viết lan man. Sách dầy hơn 400 trang mà đến trang 300 mới giới thiệu mô hình tuyến tính. Code toàn cơ bản, không thể vận dụng được. Mạng neuron giới thiệu cực kỳ sơ sài."
+            }
+        }
+    ]
+}

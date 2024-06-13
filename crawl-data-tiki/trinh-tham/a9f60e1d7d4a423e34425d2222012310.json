@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "19 Năm Mưu Sát - Tập 2 (Trinh Thám Trung Quốc)",
+        "author": "Na Đa"
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 20
+    },
+    "details": {
+        "Công ty phát hành": "Phúc Minh Books",
+        "Ngày xuất bản": "2020-04-01 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Dịch Giả": "Xuân Ngữ",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "320",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Pham Thi Phương Lan",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "33 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Tuyet Lê",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao nhanh, đóng gói cẩn thận và có cả bookmark xinh xẻo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung Hoang",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "245 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh Hoàng",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh Bùi",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "vừa ý"
+            }
+        }
+    ]
+}

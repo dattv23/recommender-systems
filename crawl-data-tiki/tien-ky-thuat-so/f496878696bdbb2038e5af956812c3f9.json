@@ -1,0 +1,56 @@
+{
+    "info": {
+        "title": "The Bitcoin Standard - Quá Khứ Biến Động, Hiện Tại Bùng Nổ, Tương Lai Đột Phá",
+        "author": "Saifedean Ammous"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Công ty phát hành": "1980 Books",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+        "Nhà xuất bản": "Nhà Xuất Bản Công Thương"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ Văn Nghĩa",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "363 Đánh giá",
+                "liked_count": "45 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách phân tích về Bitcoin dưới dạng Tiền tệ và các đặc tính của nó quá hay, bản dịch rất tốt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mỹ Lợi",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào Vũ",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "34 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

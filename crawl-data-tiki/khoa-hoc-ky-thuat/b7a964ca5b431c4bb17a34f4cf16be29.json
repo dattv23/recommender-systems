@@ -1,0 +1,696 @@
+{
+    "info": {
+        "title": "Sổ Tay Lập Trình CNC",
+        "author": "Trần Thế San - Nguyễn Ngọc Phương"
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 52
+    },
+    "details": {
+        "Công ty phát hành": "Trí Dân",
+        "Ngày xuất bản": "2011-03-12 00:00:00",
+        "Kích thước": "19 x 27 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "456",
+        "Nhà xuất bản": "Nhà Xuất Bản Khoa học và Kỹ thuật"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hoàng Đức",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách đầy đủ kiến thức về cnc, tốt cho những ai muốn hiểu biết thêm về nghành gia công cơ khí chính xác, tuyệt vời."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Lưu Quỳnh Nhi",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Thế Ái",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "51 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Nam",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tốt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhật Linh",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng Phương",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vo Hoang Huy",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "18 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm Đại Tín",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "41 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Phát",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sang Cao",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Quang Duy",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "52 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le Phuc Khang",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Phương",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Ân",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham Duc",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "10 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "thanh phước",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Dinh Tai",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao nhanh \nĐóng gói cẩn thận,chắc chắn \nHàng đúng mô tả."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu Dang",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tốt, giao hàng đúng tiến độ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Viết Ngyên",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tính Hồ",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr Trần",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trong Hao",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Oanh Huynh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "duong nguyen",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham Trung Khang",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "O.K"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Quốc Tự",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen vo cuong",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "kiến thức hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tấn Lộc",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Minh Tùng",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Thế Văn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Anh Sơn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Khải",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Văn Tú",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyen Lam",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Phúc Thạnh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh Nguyen",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn Hinh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ho Nguyen",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Dinh Ai Huynh",
+                "date": "Đã tham gia 14 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ Danh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "giấy chưa tốt!!!!!!!!!!!!!!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng Cường",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim liên",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "26 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quốc Kiệt",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà Hello",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "giấy quá xấu................"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong An",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Văn tâm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trng Nguyn",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần đức thảo",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lee Chun",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Toàn",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn Đẹp",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng Võ",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

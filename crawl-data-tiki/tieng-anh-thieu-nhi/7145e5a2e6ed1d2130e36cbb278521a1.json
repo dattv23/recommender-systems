@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Học Tiếng Anh Siêu Thú Vị: Sách Học 4",
+        "author": "Sasbadi Group"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2018-10-05 00:00:00",
+        "Kích thước": "19x26,3 cm",
+        "Dịch Giả": "Bồ Câu",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "30",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lương Thị Thanh Trúc",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Sách chất lượng, đóng gói cẩn thận, giao hàng nhanh chóng. Xin cảm ơn dịch vụ Tiki, nhà bán hàng và vận chuyển."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "tran thi anh trang",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "71 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Anh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "231 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Mai",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "61 Đánh giá",
+                "liked_count": "19 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách mới được bọc cẩn thận. Giao hàng nhanh. Hài lòng với sản phẩm này"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "NGUYEN THI  THANH THUY",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "1016 Đánh giá",
+                "liked_count": "110 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

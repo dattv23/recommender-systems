@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Hidden Pictures - Học Tiếng Anh Qua Hình Vẽ 101: Trái Tim",
+        "author": "Hương Thảo"
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 10
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Zenbooks",
+        "Ngày xuất bản": "2021-11-01 00:00:00",
+        "Kích thước": "17.8 x 24.5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "152",
+        "Nhà xuất bản": "Nhà Xuất Bản Đà Nẵng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê Thanh Tuyền",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay nha bé rất thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Tâm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "19 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ms Dung",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "55 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "VŨ THỊ MINH ANH",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "103 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim Ngân",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

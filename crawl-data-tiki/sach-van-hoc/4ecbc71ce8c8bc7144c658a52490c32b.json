@@ -1,0 +1,45 @@
+{
+    "info": {
+        "title": "Trăng Tan Đáy Nước ( Tặng Kèm Bookmark )",
+        "author": "Hoàng Yến"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "Cty Linh Lan",
+        "Ngày xuất bản": "2024-01-11 10:55:54",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "248",
+        "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ Việt Nam"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lanhuong Dang",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đóng gói cẩn thận. Sách bản đẹp. Thank shop"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan Hương",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

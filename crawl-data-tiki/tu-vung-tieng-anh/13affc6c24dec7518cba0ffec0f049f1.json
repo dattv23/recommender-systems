@@ -1,0 +1,45 @@
+{
+    "info": {
+        "title": "Mind Map English Vocabulary -Từ Vựng Tiếng Anh Qua Sơ Đồ Tư Duy - Giải Pháp Học Từ Vựng Hiệu Quả",
+        "author": "Hoàng Ngân"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Ngày xuất bản": "2021-01-01 08:42:27",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "260",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê Thị Mỹ Nhiên",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thảo thỏ",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "97 Đánh giá",
+                "liked_count": "23 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

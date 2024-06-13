@@ -1,0 +1,32 @@
+{
+    "info": {
+        "title": "Chiến Lược Kinh Doanh Quốc Tế: Thực Tiễn Của Việt Nam, Châu Á Và Thế Giới",
+        "author": "Vũ Anh Dũng"
+    },
+    "rating": {
+        "total_rating": 3.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Trung Tâm Phát Hành Sách Và Văn Hóa Phẩm Khoa Học Và Kỹ Thuật",
+        "Ngày xuất bản": "2012-04-04 00:00:00",
+        "Kích thước": "16 x 25 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "440"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Xuân Tùng",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "13 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": "Nội dung khá của sách khá tổng quan, được viết theo phong cach giáo trình. Sách giao nhanh nhưng chất lượng giấy không tốt."
+            }
+        }
+    ]
+}

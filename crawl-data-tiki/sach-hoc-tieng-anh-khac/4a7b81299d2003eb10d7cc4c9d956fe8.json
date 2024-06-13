@@ -1,0 +1,30 @@
+{
+    "info": {
+        "title": "Combo Bộ sách Cẩm nang  học tiếng Anh & Ngữ âm tiếng anh quốc tế  3 cấp độ Sơ cấp - Trung cấp -  Nâng cao",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Công ty TNHH Phát triển giáo dục quốc tế AMAIN",
+        "Loại bìa": "Bìa cứng",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Mỹ Hải",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "59 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, nội dung hữu ích."
+            }
+        }
+    ]
+}

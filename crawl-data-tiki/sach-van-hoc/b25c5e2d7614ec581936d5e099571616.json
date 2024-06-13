@@ -1,0 +1,45 @@
+{
+    "info": {
+        "title": "Sách - Sơn trà nở muộn - Giá Oản Chúc ( bản giới hạn tặng: Bookmark bật lửa + Bookmark hoa sơn trà + Postcard)",
+        "author": "Giá Oản Chúc"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "Đinh Tị",
+        "Dịch Giả": "Thu Trang",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "648",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Niên"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Võ Thị Ngọc Huệ",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Welldone"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vi Đỗ Quyên",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

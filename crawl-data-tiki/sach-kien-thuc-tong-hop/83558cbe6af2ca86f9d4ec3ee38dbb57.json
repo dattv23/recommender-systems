@@ -1,0 +1,48 @@
+{
+    "info": {
+        "title": "Nhập Môn Lịch Sử Tâm Lý Học",
+        "author": "B.R. HERGENHAHN"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "VanLangBooks",
+        "Ngày xuất bản": "2023-05-01 00:00:00",
+        "Kích thước": "13.5x21 cm",
+        "Dịch Giả": "Lưu Văn Hy",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "688",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tran Anh Bui",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "356 Đánh giá",
+                "liked_count": "42 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Thu",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "121 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

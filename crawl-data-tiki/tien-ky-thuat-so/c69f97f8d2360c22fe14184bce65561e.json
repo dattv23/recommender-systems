@@ -1,0 +1,29 @@
+{
+    "info": {
+        "title": "TRỌN BỘ 6 CUỐN SÁCH VỀ BLOCKCHAIN VÀ BITCOIN + CUỘC CÁCH MẠNG CÔNG NGHỆ TIẾP NỐI BLOCKCHAIN VÀ KỶ NGUYÊN TIỀN ĐIỆN TỬ",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 3.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "1980 Books",
+        "Nhà xuất bản": "Nhiều Nhà Xuất Bản"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trà My Bùi",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Bìa sách bị sần , rách nhẹ, giấy bên trong bị mất nếp"
+            }
+        }
+    ]
+}

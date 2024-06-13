@@ -1,0 +1,59 @@
+{
+    "info": {
+        "title": "Tính Toán Thiết Kế Nhà Cao Tầng Theo TCVN Và Tiêu Chuẩn Châu Âu (Eurocode)",
+        "author": "ThS. Đặng Tỉnh"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Công ty phát hành": "NXB Xây Dựng",
+        "Ngày xuất bản": "2020-01-01 00:00:00",
+        "Kích thước": "17x 24 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "226",
+        "Nhà xuất bản": "Nhà Xuất Bản Xây Dựng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Minh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "158 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Truong Tu",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Truong Tu",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

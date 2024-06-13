@@ -1,0 +1,57 @@
+{
+    "info": {
+        "title": "Đầu tư phát triển bất động sản và quản lý dự án đầu tư xây dựng",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Công ty phát hành": "Công ty TNHH Thương mại và Dịch vụ Văn hóa Hà Nội",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "340",
+        "Nhà xuất bản": "Nhà Xuất Bản Tài Chính"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lan Nguyễn",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "33 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nhiều nội dung hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Nguyễn Khánh Linh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran Xuan Luong Dh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "48 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

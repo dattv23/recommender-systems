@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Blockchain: Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ",
+        "author": "Mark Gates"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 10
+    },
+    "details": {
+        "Công ty phát hành": "1980 Books",
+        "Ngày xuất bản": "2022-11-01 14:41:00",
+        "Kích thước": "13 x 20.5 cm",
+        "Dịch Giả": "Thành Dương",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "288",
+        "Nhà xuất bản": "Nhà Xuất Bản Lao Động"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Vĩnh Nghi",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đóng gói kĩ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim Anh",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "15 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "apple user",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng Long",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Quyền",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

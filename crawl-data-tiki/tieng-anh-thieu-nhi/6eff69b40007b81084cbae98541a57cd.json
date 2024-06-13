@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Học Tự Vựng Tiếng Anh Qua Hình Và Ví Dụ Minh Họa",
+        "author": "Langenscheidt"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 9
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhân Trí Việt",
+        "Ngày xuất bản": "2018-09-18 19:20:06",
+        "Kích thước": "12.5 x 18cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "304",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Roeth T Oeurn",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách cực kỳ nhỏ gọn,ban đầu300trang tưởng nó to,cảm giác khá là bất ngờ.nhưng sách khá là chất lượng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Thanh",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "rất tốt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Bay",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Rất hài lòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Hoang Minh Huong",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "431 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Minh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách đẹp, nội dung hay."
+            }
+        }
+    ]
+}

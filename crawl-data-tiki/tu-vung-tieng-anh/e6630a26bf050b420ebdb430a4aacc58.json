@@ -1,0 +1,46 @@
+{
+    "info": {
+        "title": "5000 Từ Vựng Tiếng Anh Thông Dụng Nhất (Tái bản 2020)",
+        "author": "The Windy"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Ngày xuất bản": "2020-08-01 00:00:00",
+        "Kích thước": "8 x 12 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "520",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Minh Thư",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "122 Đánh giá",
+                "liked_count": "13 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "chất lượng giấy tốt nhỏ gọn màu sắc chữ in rõ nét"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chu thiep",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "367 Đánh giá",
+                "liked_count": "36 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

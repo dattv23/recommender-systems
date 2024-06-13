@@ -1,0 +1,33 @@
+{
+    "info": {
+        "title": "Hiểu Về Trump",
+        "author": "Newt Gingrich"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Omega Plus",
+        "Ngày xuất bản": "2019-03-01 00:00:00",
+        "Kích thước": "19 x 26.5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "184",
+        "Nhà xuất bản": "Nhà Xuất Bản Công Thương"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trần Tuấn Toàn",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

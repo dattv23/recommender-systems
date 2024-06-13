@@ -1,0 +1,84 @@
+{
+    "info": {
+        "title": "Tư Vấn Bảo Hiểm - Những Kỹ Năng Không Ai Nói Với Bạn (Tập 2)",
+        "author": "Lê Minh,"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 5
+    },
+    "details": {
+        "Công ty phát hành": "NXB Đà Nẵng",
+        "Phiên bản": "thường",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "306",
+        "Nhà xuất bản": "Nhà Xuất Bản Đà Nẵng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Quang Đỗ",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Không chỉ tập 2 mà những tập khác cũng rất thực tế và giàu tính chuyên môn, cảm ơn tác giả Lê Minh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà Nguyễn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "17 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Thấy sách quá hay nên mua tặng thêm đội ngũ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Thu Hồng",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Hữu ích, xúc tích dễ hiểu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đinh Huệ",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh Việt",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

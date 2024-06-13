@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Ảo Dạ (Tái Bản)",
+        "author": "Higashino Keigo"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 18
+    },
+    "details": {
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2021-01-20 14:08:40",
+        "Kích thước": "15 x 24 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "584",
+        "Nhà xuất bản": "Nhà Xuất Bản Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "L­­ư Thu Hương",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Rất hay ạ, vô cùng khâm phục năng lực viết sách, xây dựng tình huống và sắp xếp nhân vật của Higashino Keigo và như thường lệ kết chuyện thường k làm thoả mãn đòi hòi của độc giả mà để lại sự day dứt,...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Duy",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "102 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng Huỳnh Bảo Duy",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "57 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cấn Khắc Nguyên",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "18 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huyền Trang",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đọc cuốn ?"
+            }
+        }
+    ]
+}

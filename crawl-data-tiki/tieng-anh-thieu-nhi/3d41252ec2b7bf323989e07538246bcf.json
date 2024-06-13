@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "I Can My Family - sách học tiếng Anh cho trẻ mầm non",
+        "author": "Lương Thị Diễm Hồng,"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "Phúc Minh Books",
+        "Ngày xuất bản": "2018-08-22 00:00:00",
+        "Kích thước": "100",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "36",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ Lực",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "35 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Bộ này mình mua cho bé tập học tiếng anh. Canh sale 7.7 mua rẻ lắm có 7k/cuốn à"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "lê mỹ hanh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "85 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "tốt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sơn Thái Lê",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "71 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Trang",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "384 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Tinh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "52 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "info": {
+        "title": "Mind Map English Vocabulary -Từ vựng tiếng Anh qua sơ đồ tư duy - TKBooks",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 8
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Nhà xuất bản": "hong duc"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Bao Ngân",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sản phẩm giao nhanh hơn dự kiến"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương Vinh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "257 Đánh giá",
+                "liked_count": "10 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao nhanh, có app học"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồ Nhuận Phát",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Nhật Trường",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "giống như trên quảng cáo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luong Ngoc Mai",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "29 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

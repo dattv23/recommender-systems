@@ -1,0 +1,33 @@
+{
+    "info": {
+        "title": "Giỏi Tiếng Anh - Vui Ứng Xử - Greetings",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Ngày xuất bản": "2019-01-02 00:00:00",
+        "Kích thước": "20.5 x 20.5 cm",
+        "Dịch Giả": "Nguyễn Thanh Vân",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "24"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trần Quỳnh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "405 Đánh giá",
+                "liked_count": "93 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

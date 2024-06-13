@@ -1,0 +1,32 @@
+{
+    "info": {
+        "title": "Truyện đọc thiếu nhi tiếng Anh: Coraline",
+        "author": "Neil Gaiman"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Bloomsbury Publishing PLC",
+        "Ngày xuất bản": "2013-10-10 16:28:38",
+        "Loại bìa": "Paperback",
+        "Số trang": "208",
+        "Nhà xuất bản": "Bloomsbury Publishing PLC"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trần Minh Thắng",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Ship nhanh, truyện đẹp, bìa chất lượng"
+            }
+        }
+    ]
+}

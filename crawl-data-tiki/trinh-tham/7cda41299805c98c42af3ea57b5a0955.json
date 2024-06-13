@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Một Thế Giới Không Có Đàn Bà (Trinh Thám Việt Nam)",
+        "author": "Bùi Anh Tấn"
+    },
+    "rating": {
+        "total_rating": 4.4,
+        "number_of_rating": 14
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Phúc Minh Books",
+        "Ngày xuất bản": "2019-04-01 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "460",
+        "Nhà xuất bản": "Nhà Xuất Bản Công An Nhân Dân"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Huỳnh Anh Kiệt",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "71 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Khi sách được giao tới thì sách vẫn còn rất mới, còn bọc plastic bảo vệ bên ngoài và không có hiện tượng cong gấp gì hết. Truyện này rất là hay, do chính tác giả Việt Nam viết nên bối cảnh và ngôn từ...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bảo Tiên",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Ban đầu mình mua để phục vụ cho mục đích làm tiểu luận, mới đọc một lần sơ qua thì chưa cảm thấy hay nhưng nếu các bạn tìm hiểu kỹ hơn về các lý thuyết phân tâm học của Jung & Freud mà tác giả có sử dụng...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân Lê Hoàng",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "12 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Cả quyển xuất sắc lắm nhưng kết buồn quá ạ 😭😭😭😭😭"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vưu Trúc",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "62 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn Hải",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "129 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, không bị quăn hay bẩn"
+            }
+        }
+    ]
+}

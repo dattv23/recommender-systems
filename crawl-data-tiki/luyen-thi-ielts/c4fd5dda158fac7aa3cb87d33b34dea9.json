@@ -1,0 +1,45 @@
+{
+    "info": {
+        "title": "Perfect IELTS Vocabulary",
+        "author": "William Jang"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "Alphabooks",
+        "Kích thước": "16 x 24 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "600",
+        "Nhà xuất bản": "Nhà Xuất Bản Dân Trí"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Đỗ  Tiến Minh",
+                "date": "Đã tham gia 12 năm",
+                "review_count": "48 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, giao hàng nhanh. Nội dung sách ổn, trình bày dễ nhìn, phù hợp cho những bạn muốn vải thiện từ vựng IELTS. Một cuốn sách nên có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ta Duy Vuong",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "116 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "QUYẾT TOÁN THUẾ - Lý thuyết và thực tế",
+        "author": "Đặng Phước Đức"
+    },
+    "rating": {
+        "total_rating": 4.4,
+        "number_of_rating": 15
+    },
+    "details": {
+        "Công ty phát hành": "Liên kết với tác giả",
+        "Ngày xuất bản": "2021-06-11 13:06:07",
+        "Phiên bản": "2021",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "218",
+        "Nhà xuất bản": "Nhà Xuất Bản Tài Chính"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Home Msm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "cũng được, nhưng chứ ko nét bằng quyển mình đọc trước đó. giáo hàng nhanh. mình muốn mua quyển màu xanh \"tổ chức công tác kế toán\" mà tiki ko có. buồn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ánh Huyền",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đang đau đầu vì lần đầu quyết toán thì học được cuốn này. Sách hay, nội dung chi tiết rất thực tế"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huynh Hue",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "78 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách mới, được đóng gói kỹ càng.\nGiao hàng đúng thời hạn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương Hiền",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong Hoang Vu",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

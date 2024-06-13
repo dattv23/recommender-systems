@@ -1,0 +1,32 @@
+{
+    "info": {
+        "title": "Sổ Tay Chuyên Ngành Điện",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 4.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Trí Dân",
+        "Ngày xuất bản": "2022-06-30 10:13:47",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "224",
+        "Nhà xuất bản": "Nhà Xuất Bản Khoa học và Kỹ thuật"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ms Hạnh",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "35 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

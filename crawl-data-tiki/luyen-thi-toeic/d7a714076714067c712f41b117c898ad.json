@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Sách Starter Toeic Third Edition",
+        "author": "Compass"
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 15
+    },
+    "details": {
+        "Công ty phát hành": "First News - Trí Việt",
+        "Ngày xuất bản": "2017-07-27 00:00:00",
+        "Kích thước": "20.5 x 26 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "310",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Phạm Ngọc Quyên",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đầy đủ sách và đĩa"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Nguyễn Gia Hân",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân Lê",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tài khoản Zalo",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Như",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "271 Đánh giá",
+                "liked_count": "24 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

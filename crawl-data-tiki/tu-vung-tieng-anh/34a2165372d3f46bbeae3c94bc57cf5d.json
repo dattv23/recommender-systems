@@ -1,0 +1,82 @@
+{
+    "info": {
+        "title": "Combo Nghiền Từ Vựng Tiếng Anh - Học Qua Gốc Từ Bằng Hình Ảnh (Bộ 2 Quyển)",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "Megabook",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê Thanh Đắc",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "44 Đánh giá",
+                "liked_count": "12 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng giấy tốt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr Dương Võ",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan Duy Thiên",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Binh Le",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "23 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Tiến Hoàng Long",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

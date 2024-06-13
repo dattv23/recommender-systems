@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Trạm Đọc Official |  Hackers IELTS Basic Reading",
+        "author": "Hackers"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 18
+    },
+    "details": {
+        "Công ty phát hành": "Alphabooks",
+        "Ngày xuất bản": "2023-03-02 00:00:00",
+        "Kích thước": "16 x 24 cm",
+        "Dịch Giả": "Lê Kiều Trang",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "404",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thảo Trân",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng nhanh shipper thân thiện sách đóng gói cẩn thân"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô Minh Trác",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "bọc hàng kĩ càng, sách mới tinh, đóng gói giao hàng nhanh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đình Phát",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Vì nó bổ ích và bìa rất đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Agustine Nguyễn",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, giao nhanh, rất đáng tiền."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Ngọc Yến",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp mà giá lại rẻ nữa. Shop ship nhanh bọc cẩn thận vote 5 sao ạ"
+            }
+        }
+    ]
+}

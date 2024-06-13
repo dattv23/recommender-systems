@@ -1,0 +1,33 @@
+{
+    "info": {
+        "title": "HỆ THỐNG THUỶ LỰC TRÊN MÁY CÔNG NGHIỆP",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Trí Dân",
+        "Ngày xuất bản": "2021-06-22 08:34:19",
+        "Phiên bản": "tái bản",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "192",
+        "Nhà xuất bản": "Nhà Xuất Bản Khoa học và Kỹ thuật"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nhựt Trần",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "98 Đánh giá",
+                "liked_count": "11 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

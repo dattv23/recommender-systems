@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "DESTINATION B1 - Ngữ pháp và từ vựng tiếng anh tập 1",
+        "author": "Nhiều tác giả"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 12
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhà sách Minh Thắng",
+        "Ngày xuất bản": "2022-05-01 00:00:00",
+        "Kích thước": "19 x 27 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "244",
+        "Nhà xuất bản": "Nhà Xuất Bản Đại Học Quốc Gia Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Võ Thị Chung",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "58 Đánh giá",
+                "liked_count": "7 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay, có tiếng việt. Chi tiết, cụ thể. Đúng sách mình muốn tìm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vương Tuấn Anh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "188 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Thu Hà",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan Thu Hoai",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Thị Thảo",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

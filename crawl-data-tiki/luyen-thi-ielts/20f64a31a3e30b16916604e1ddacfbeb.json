@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Check Your English Vocabulary For Ielts",
+        "author": "Rawdon Wyatt"
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 9
+    },
+    "details": {
+        "Công ty phát hành": "1980 Books",
+        "Ngày xuất bản": "2019-03-01 00:00:00",
+        "Kích thước": "16 x 24 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "276",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Anh Trần",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, không bị quăn góc, đóng gói cẩn thận."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thảo Vy",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trinh Ho",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương Thị Cẩm Ly",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vân Anh Hoang",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

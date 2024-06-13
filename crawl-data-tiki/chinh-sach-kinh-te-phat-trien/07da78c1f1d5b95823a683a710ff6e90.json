@@ -1,0 +1,33 @@
+{
+    "info": {
+        "title": "Sự Bùng Nổ Của Trung Quốc",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Nhà Xuất Bản Chính Trị Quốc Gia Sự Thật",
+        "Ngày xuất bản": "2019-12-31 16:32:59",
+        "Dịch Giả": "Đỗ Đức Thọ",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "288",
+        "Nhà xuất bản": "Nhà Xuất Bản Chính Trị Quốc Gia Sự Thật"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Tiến Quân",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "167 Đánh giá",
+                "liked_count": "17 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

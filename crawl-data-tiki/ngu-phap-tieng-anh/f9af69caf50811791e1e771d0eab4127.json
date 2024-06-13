@@ -1,0 +1,83 @@
+{
+    "info": {
+        "title": "Combo Mindmap English Grammar và Mindmap English Vocabulary - Học Kèm App Online",
+        "author": "The Windy"
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 19
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "292",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tiến Dũng",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "49 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao nhanh, đóng gói cẩn thận"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Văn Thái",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách ổn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Tiến Đạt",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mình rất thấy phần nội dung của sách ,nhìn rất thoáng ạ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương Ngọc Quốc Cường",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "10 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao nhanh, sách chất lượng nội dung hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Dương",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

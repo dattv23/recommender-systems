@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Tư Vấn Bảo Hiểm - Những Kỹ Năng Không Ai Nói Với Bạn (Tập 4)",
+        "author": "Lê Minh"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "NXB Tổng Hợp Đà Nẵng",
+        "Ngày xuất bản": "2021-08-11 16:08:59",
+        "Phiên bản": "Bản Giấy",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "196",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp Đà Nẵng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hà Nguyễn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "17 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Phải chăng đọc được cuốn này sớm hơn, tôi đã có thể xây dựng đội nhóm tốt hơn. Dù sao cũng cảm ơn những chia sẻ tâm huyết của tác giả Lê Minh."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh Nguyên",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "15 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách của Lê Minh tuy không dày nhưng lại thực tế và đáng giá tới từng trang sách. Đọc tới đâu thấm tới đó. Rất cảm ơn tác giả Lê Minh đã chia sẻ những kinh nghiệm quý báu cho ngành BHNT."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le Thi Bich Ngoc",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Ship nhanh chóng, shipper thân thiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khanh Nguyen",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay đã nhận đc hàng, đóng gói rất kỹ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hạnh Trần",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "72 Đánh giá",
+                "liked_count": "36 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Trạm Đọc Official | Mastering Bitcoin - Bitcoin Thực Hành : Những Khái Niệm Cơ Bản Và Cách Sử Dụng Đúng Đồng Tiền Mã Hóa",
+        "author": "Andreas M. Antonopoulos"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "Alphabooks",
+        "Ngày xuất bản": "2018-01-01 00:00:00",
+        "Kích thước": "16 x 24 cm",
+        "Dịch Giả": "LeVN, Thu Hương",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "540",
+        "Nhà xuất bản": "Nhà Xuất Bản Đại Học Kinh Tế Quốc Dân"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Hoành",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "115 Đánh giá",
+                "liked_count": "148 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay. \n\nSách viết về bản chất các hoạt động ở phần hạ tầng của hệ thống bitcoin.\n\nNếu bạn không biết về lập trình, sẽ gặp rất nhiều khó khăn để hiểu hết cuốn sách."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Khánh Linh",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "27 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nhà bán đóng gói kĩ, sách đẹp, bao bì tốt. Nội dung chưa xem nên chưa biết sao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Tiến Đạt",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đinh Tú",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghĩa Lê",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

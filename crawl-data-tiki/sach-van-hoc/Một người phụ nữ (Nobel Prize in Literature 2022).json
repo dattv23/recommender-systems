@@ -1,0 +1,330 @@
+{
+    "info": {
+        "title": "Một người phụ nữ (Nobel Prize in Literature 2022)",
+        "author": "Annie Ernaux"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 28
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2023-04-01 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Dịch Giả": "Thu Phương",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "109",
+        "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Pa No Ta",
+                "date": "Đã tham gia 3 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng nhanh, giá đã giảm hơn bình thường rồi mà áp thêm mã nữa chỉ còn có 186k cho 5 cuốn. Cũng lâu rồi mới quay lại Tiki mua sách, lần này là lần thứ 2 mua trong năm, thấy cách đóng gói có tiến bộ...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "B H",
+                "date": "Đã tham gia 6 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chuyện rất bình dị, dù là tây hay ta thì vẫn thấy chút mẹ ta, hay chính ta trong đó"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan Quang Hai",
+                "date": "Đã tham gia 6 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sản phẩm đúng như mô tả! Giao hàng siêu nhanh! Đóng gói chắc chắn và hàng giao nguyên vẹn!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luyen do",
+                "date": "Đã tham gia 4 tháng"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sachs đẹp dày dặn nội dung rất hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hùng Tiến",
+                "date": "Đã tham gia 5 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Minh Ngọc",
+                "date": "Đã tham gia 6 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hải Đăng",
+                "date": "Đã tham gia 2 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Mỹ Yến",
+                "date": "Đã tham gia 3 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu Tran",
+                "date": "Đã tham gia 8 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Thanh Tùng",
+                "date": "Đã tham gia 6 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà Linh Nguyễn Lê",
+                "date": "Đã tham gia 2 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Apple User",
+                "date": "Đã tham gia 1 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Đức",
+                "date": "Đã tham gia 9 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ Phương Thảo",
+                "date": "Đã tham gia 2 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran van Hien",
+                "date": "Đã tham gia 3 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "HUY TRAN",
+                "date": "Đã tham gia 5 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "hoang kim chi",
+                "date": "Đã tham gia 3 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Lê Hoài Nguyên",
+                "date": "Đã tham gia 13 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bàng Quỳnh Anh",
+                "date": "Đã tham gia 3 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mỹ Hạnh",
+                "date": "Đã tham gia 8 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ Nhung",
+                "date": "Đã tham gia 3 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Thi Hong Nhung",
+                "date": "Đã tham gia 8 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan Hoài Đức",
+                "date": "Đã tham gia 11 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai Thành Chung",
+                "date": "Đã tham gia 12 năm"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Apple User",
+                "date": "Đã tham gia 4 tháng"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Ai đó đã đọc quyển sách này trước nên Tôi có cảm giác mình mua một quyển sách cũ vậy, dù sách khá ổn nhưng Tôi thấy hơi bực mình🤣"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhung Huynh",
+                "date": "Đã tham gia 4 năm"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Mua được sách giảm giá. Giao hàng nhanh, shiper thân thiện. Cho shop 4 sao. Sẽ mua tiếp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Diễm Chinh",
+                "date": "Đã tham gia 4 năm"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": "Sách không có bọc, nội dung mình chưa đọc nên chưa đánh giá được."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Zalo Nguyen Huu Vinh",
+                "date": "Đã tham gia 6 năm"
+            },
+            "review": {
+                "rating": 2,
+                "title": "Không hài lòng",
+                "content": "Giao sâch bị cấn mất thẩm mỹ"
+            }
+        }
+    ]
+}

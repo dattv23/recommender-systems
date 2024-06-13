@@ -1,0 +1,61 @@
+{
+    "info": {
+        "title": "Ngày Hôm Nay Cũng Không Quá Tệ",
+        "author": "Gu Gyung-Seon"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "VanLangBooks",
+        "Ngày xuất bản": "2022-10-10 00:00:00",
+        "Kích thước": "13.5x21 cm",
+        "Dịch Giả": "Kim Chi",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "272",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Hóa"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Bao Hung",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "96 Đánh giá",
+                "liked_count": "7 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "tran nguyen",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "530 Đánh giá",
+                "liked_count": "12 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam Nguyen",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "info": {
+        "title": "combo ánh sáng thành phố + tâm nguyện cuối cùng + độc giả thứ 7",
+        "author": "Lôi Mễ"
+    },
+    "rating": {
+        "total_rating": 4.7,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Công ty phát hành": "Cổ Nguyệt Books",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hồ Hồng Thắm",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "36 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tạ Thanh Lương",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "107 Đánh giá",
+                "liked_count": "8 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Vĩ",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "28 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Sách hình thức khá kém có quyển bìa hơi nhăn , có quyển sau gáy nhăn khá nhiều"
+            }
+        }
+    ]
+}

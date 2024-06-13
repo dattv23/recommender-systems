@@ -1,0 +1,658 @@
+{
+    "info": {
+        "title": "Economy TOEIC RC1000 Volume 1",
+        "author": "Lori"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 49
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhân Trí Việt",
+        "Ngày xuất bản": "2014-02-10 00:00:00",
+        "Kích thước": "20 x 28 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "279",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Anh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "22 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hùynh Thiên Cư",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Màu sắc in rõ nét giá thành tốt. Chất lượng 👍👍"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai Tran",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "384 Đánh giá",
+                "liked_count": "151 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Bộ sách này được biên soạn dành cho những người ở trình độ sơ cấp, mới bắt đầu luyện thi TOEIC. Sách cung cấp những kiến thức nền cơ bản nhất"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Thanh Phong",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "69 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách giáo nhanh, chất lượng tốt, in chữ rõ ràng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Lâm Thanh Huê",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mik rất hài lòng giao nhanh lắm ạ đóng gói kĩ càng giá rẻ nữa mong là sẽ hk tốt mik cảm ơn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Tiên",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng siêu nhanh, đóng gói cẩn thận, sách đẹp,  rõ nét"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Diệu",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "19 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sản phẩm ok.  tuy nhiên đặt nhầm LC sang RC nên phải đặt lại cuốn khác.  mùa Dịch nên giao hơi lâu,  nhưng vẫn nhanh hơn dự kiến 1 tuần."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Thị Toan",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "278 Đánh giá",
+                "liked_count": "36 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sản phẩm đúng như hình. Gói hàng kỹ. Ship đến nhanh. Hài lòng với chất lượng sản phẩm ?"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "dinh dinh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đúng sách, tốtttttttttttttttttttttttttttttttttttttttt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gia Minh Nguyen",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, mới, không hỏng góc, nội dụng thì okie rồi he"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Thảo",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bích Phương",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách in đẹp lắm ah"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Đại Huệ",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Sách đẹp",
+                "content": "Giao hàng nhanh, đóng gói đẹp và kĩ, nhân viên lịch sự và trách nhiệm, sách in rất đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Như Quỳnh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan Ngọc",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Hoàng Phương",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ Hà Trang",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm Thành",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "45 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "anh l",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Lan Phương",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "32 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "I",
+                "content": "Được cô giới thiệu sách này là bám sát đề thi với lại Tiki giao hàng nhanh thật sự. Sáng đi học đặt mà trưa đi học về đã có. Thích lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pi Sky",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "👍"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Sơn Tùng",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "17 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "I like it"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh Tuyền",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ Thị Thu Nguyệt",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diep Bui",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương Ly",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gia Phượng",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ Thu Trang",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách mới, đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "phuong thao",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng siêu nhanh ❤️"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân Quỳnh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Tú Anh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nga Thanh",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "PHAN HIEU NGOC BICH",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quynh Nguyen",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu Hiền",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khiếu Dũng",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "ok",
+                "content": "ok tốt giao hàng cực nhanh, sáng đặt trưa đã có hàng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương Hiểu Linh",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": "Về nội dung và chất lượng giấy sách thì không còn gì để nói. Rất hay, bổ ích, từ vựng sát đề thi thật. Các bạn tự luyện thi có thể mua về ôn.\n\nNhưng mình vẫn cho 3 sao vì lần đóng gói hàng này của tiki...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Lam",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh Phươngg",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Thị Hằng",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "80 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Na Chày Cối",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "29 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "TRẦN MINH HÀ",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "18 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Mai",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": "Đóng gói sản phẩm sơ sài quá ạ :((( mưa mà ướt cả vào trong luôn . Bên trong bọc mỗi lơp nilong mỏng. Không có lớp chống sốc. Haizzz. Bị méo góc sách"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Nhật Hạ",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Sách hay mực in rõ ràng, trình bày đẹp bắt mắt! Đặc biệt là giao hàng rất nhanh. Tuy nhiên, không hiểu sao mình đã đăng kí gói bookcare mua 8 quyển mà Tiki lại bỏ qua 2 quyển không bọc. Nếu khổ sách lớn...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Uyên Phương",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": "Sách hơi bám bụi, nên bọc lại"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang Van Duc",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tiên Nguyễn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải Yến",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

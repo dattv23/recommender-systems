@@ -1,0 +1,83 @@
+{
+    "info": {
+        "title": "Tiểu thuyết trinh thám - Arsène Lupin - Siêu Trộm Hào Hoa - Boxset (trọn bộ 5 cuốn)",
+        "author": "."
+    },
+    "rating": {
+        "total_rating": 4.2,
+        "number_of_rating": 10
+    },
+    "details": {
+        "Công ty phát hành": "Đinh Tị",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "1800",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hồ trung vĩnh",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "quá tệ hư phần hợp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Hiền",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "10 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trinh Nguyễn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy Lư",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đóng gói cẩn thận, có seal bảo vệ sách khỏi bụi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong Thu Huong",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "18 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

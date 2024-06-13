@@ -1,0 +1,46 @@
+{
+    "info": {
+        "title": "Combo 7 cuốn song ngữ Julia Cook tặng kèm sổ tay giáo dục gia đình Nhật Bản",
+        "author": "Julia Cook"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "Quảng Văn",
+        "Ngày xuất bản": "2017-10-10 16:27:05",
+        "Kích thước": "18x18x15",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "750",
+        "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "trieu le",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "37 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng sách tốt : giấy đẹp, hình ảnh rõ ràng sắc nét"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang Yen",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

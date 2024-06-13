@@ -1,0 +1,82 @@
+{
+    "info": {
+        "title": "Very Easy Toeic - Second Edition",
+        "author": "Anne Taylor"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 5
+    },
+    "details": {
+        "Công ty phát hành": "FIRST NEWS",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trang Võ Mạnh Nguyên",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách rất hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Ngọc Minh Thư",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bích Ngọc Nguyễn Trần",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị Quế Anh Phan",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "ANH HOANG LE",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "349 Đánh giá",
+                "liked_count": "45 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

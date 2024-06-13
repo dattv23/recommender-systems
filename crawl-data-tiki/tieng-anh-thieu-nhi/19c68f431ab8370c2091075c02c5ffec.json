@@ -1,0 +1,29 @@
+{
+    "info": {
+        "title": "My Fourth Diary - Tái Bản 2021",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Phương Nam",
+        "Nhà xuất bản": "oem"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tuyen Huynh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "43 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

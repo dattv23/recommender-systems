@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Hidden Pictures - Học Tiếng Anh Qua Hình Vẽ 101: Bàn Chải",
+        "author": "Hương Thảo"
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 7
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Zenbooks",
+        "Ngày xuất bản": "2021-11-01 00:00:00",
+        "Kích thước": "17.8 x 24.5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "152",
+        "Nhà xuất bản": "Nhà Xuất Bản Đà Nẵng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thach Thao Tran",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Thanh Tuyền",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Ngoc Anh Vu",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "29 Đánh giá",
+                "liked_count": "8 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách quá đẹp, thơm phức"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhung Nguyen",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Phương Thư",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

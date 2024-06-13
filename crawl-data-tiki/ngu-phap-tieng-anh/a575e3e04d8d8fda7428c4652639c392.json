@@ -1,0 +1,32 @@
+{
+    "info": {
+        "title": "Combo Ngữ Pháp Và Giải Thích Ngữ Pháp Tiếng Anh Cơ Bản Và Nâng Cao",
+        "author": "Vũ Thị Mai Phương"
+    },
+    "rating": {
+        "total_rating": 4.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Ngày xuất bản": "2019-01-01 00:00:00",
+        "Kích thước": "14.5 x 20.5cm",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Tuấn Cường",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Giao hàng nhanh, sách ok nhưng mỗi tội quá trình vận chuyển bị cong nguyên cuốn\r\nMình thấy gói hơi sơ sài ...hi vọng shop khắc phục"
+            }
+        }
+    ]
+}

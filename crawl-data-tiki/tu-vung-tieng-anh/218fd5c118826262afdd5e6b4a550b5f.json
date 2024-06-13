@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Ứng Dụng 6000 Từ Vựng Tiếng Anh Thông Dụng Nhất",
+        "author": "The Windy"
+    },
+    "rating": {
+        "total_rating": 4.6,
+        "number_of_rating": 11
+    },
+    "details": {
+        "Công ty phát hành": "MCBOOKS",
+        "Ngày xuất bản": "2020-08-01 00:00:00",
+        "Kích thước": "10 x 15 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "624",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Hoàng Bảo Trâm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mình thấy lạ 1 chút là từ vựng thông dụng nma có 1 số từ thg đc dùng hàng ngày lại k có trong này. Mình nghĩ là các bạn nên cân nhắc mua cuốn này"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "huynh tan noi",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "128 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan thanh liên",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "22 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "nv giao hàng tốt, giao hàng nhanh,sách đẹp được đóng gói cẩn thận,rất đáng để mua."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào Duy Phát",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "khanh bảo khanh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

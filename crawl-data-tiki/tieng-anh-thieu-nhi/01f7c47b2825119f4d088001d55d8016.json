@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "I Can My classroom - sách học tiếng Anh cho trẻ mầm non",
+        "author": "Lương Thị Diễm Hồng,"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 9
+    },
+    "details": {
+        "Công ty phát hành": "Phúc Minh Books",
+        "Ngày xuất bản": "2018-08-22 00:00:00",
+        "Kích thước": "100",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "36",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Duy Thắng",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "52 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "ly ly",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sach hay rẻ và hưu ich\nCho trẻ lên lơp 1"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Thu Trang",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "129 Đánh giá",
+                "liked_count": "153 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ hồng phương",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "116 Đánh giá",
+                "liked_count": "23 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "NGUYEN THI NGOC MAI",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "865 Đánh giá",
+                "liked_count": "21 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

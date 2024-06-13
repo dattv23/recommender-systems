@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Tuyển Chọn 150 Mẩu Chuyện Cười Tiếng Anh Song Ngữ",
+        "author": "Thiên Phúc"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "CÔNG TY TNHH MTV TRÍ TUỆ",
+        "Ngày xuất bản": "2020-10-15 00:00:00",
+        "Kích thước": "14.5x20.5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "300",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Niên"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "lê Trúc Ái",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách rất hay. Đóng gói cẩn thật lắm. Mình hay mua sách tại cửa hàng nhưng đây là lần đầu mình mua online. Rất thích fahasa...sẽ ủng hộ tiếp tục."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bui Ngoc Minh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "mình còn bookcare, nhưng lại ko có bìa bookcare ạ, kiểm tra giúp mình nha. Chất lượng sách ok."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huệ Mẫn",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen phuong anh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "43 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Gio hang đủ và dung"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "phuong thao",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

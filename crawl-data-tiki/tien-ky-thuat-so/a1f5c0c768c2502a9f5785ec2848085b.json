@@ -1,0 +1,34 @@
+{
+    "info": {
+        "title": "Trạm Đọc Official |  Phù Thủy Sàn Chứng Khoán",
+        "author": "Jack. D. Schwager"
+    },
+    "rating": {
+        "total_rating": 4.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Alphabooks",
+        "Ngày xuất bản": "2018-01-01 00:00:00",
+        "Kích thước": "16 x 24 cm",
+        "Dịch Giả": "Phan Thanh Trà",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "436",
+        "Nhà xuất bản": "Nhà Xuất Bản Lao Động Xã Hội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Jetto Pham",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "8 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

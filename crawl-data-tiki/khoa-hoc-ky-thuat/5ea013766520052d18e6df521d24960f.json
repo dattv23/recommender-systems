@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Sổ Tay Chuyên Ngành Hàn",
+        "author": "Trần Thế San - Tăng Văn Mùi"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 17
+    },
+    "details": {
+        "Công ty phát hành": "Trí Dân",
+        "Ngày xuất bản": "2013-05-25 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "271",
+        "Nhà xuất bản": "Nhà Xuất Bản Khoa học và Kỹ thuật"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tạ Quang Dũng",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "28 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng giấy in ổn, chữ có chỗ hơi nhoè nhưng đọc được."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đinh Văn Hoan",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn Hoằng",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Huy hoàng",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "18 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Thanh Long",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

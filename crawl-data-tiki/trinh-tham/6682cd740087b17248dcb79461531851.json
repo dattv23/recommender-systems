@@ -1,0 +1,31 @@
+{
+    "info": {
+        "title": "Bóng Ma Trong Nhà Hát",
+        "author": "Gaston Leroux"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2017-03-01 00:00:00",
+        "Số trang": "359",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Phạm Minh Anh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

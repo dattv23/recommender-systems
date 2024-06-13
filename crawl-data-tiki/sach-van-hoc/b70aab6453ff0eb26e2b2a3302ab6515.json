@@ -1,0 +1,382 @@
+{
+    "info": {
+        "title": "Như Cơn Gió Thoảng - Nghĩ Về Những Qui Luật Cuộc Sống",
+        "author": "Nguyễn Văn Tuấn"
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 28
+    },
+    "details": {
+        "Công ty phát hành": "NXB Trẻ",
+        "Ngày xuất bản": "2022-09-09 00:00:00",
+        "Kích thước": "13 x 20",
+        "Nhà xuất bản": "NXB Trẻ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Minh Thông",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "41 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay của GS. Nguyễn Văn Tuấn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "đàm qk châu",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "To Quoc Khanh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách của giáo sư là các bài học gần gũi. Cách dẫn dắt dễ hiểu, khoa học."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Trung",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "81 Đánh giá",
+                "liked_count": "70 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "quá tuyết vời ! 1 cuốn sách đáng có trong tủ sách và đọc thường xuyên"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duy Huynh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay, in ấn rõ đẹp, nội dung trình bày dễ xem."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh Vân",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "80 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Hoàng Anh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "26 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nhân văn, đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Ngọc Tuấn",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "91 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "hoang van",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Tuấn Kiệt",
+                "date": "Đã tham gia 12 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bui Khoa Phuoc",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "24 Đánh giá",
+                "liked_count": "13 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Phú Phúc",
+                "date": "Đã tham gia 13 năm",
+                "review_count": "24 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Ngoc Binh Phuong",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "ĐỖ CHẤN QUỐC",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "59 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung Nguyen",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "164 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Hay !"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn  Hoàng Khải Minh",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "PHAN XUÂN CÁT",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong Thanh Hai",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "82 Đánh giá",
+                "liked_count": "38 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Đình Chiến",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "75 Đánh giá",
+                "liked_count": "7 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Việt Trung Huỳnh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "177 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Huy Hoàng",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "64 Đánh giá",
+                "liked_count": "13 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh Đại",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "157 Đánh giá",
+                "liked_count": "10 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Quocdat",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vietlamvan",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hồng Lụa",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "56 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trịnh Văn Toản",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "64 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tan Nguyen",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ Xuân Bình",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Hay"
+            }
+        }
+    ]
+}

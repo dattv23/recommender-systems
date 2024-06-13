@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Tam Thế Thư (Bìa cứng)",
+        "author": "Gia Cát Lượng"
+    },
+    "rating": {
+        "total_rating": 4.6,
+        "number_of_rating": 19
+    },
+    "details": {
+        "Công ty phát hành": "Nhà sách Minh Thắng",
+        "Ngày xuất bản": "2020-03-02 00:00:00",
+        "Kích thước": "19x27 cm",
+        "Loại bìa": "Bìa cứng",
+        "Số trang": "380",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Linh Linh",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "19 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tiki đóng gói sản phẩm chắc chắn và đẹp mắt.  Giao hàng đúng hạn, nhanh chóng Sách đẹp nói chung là mình hài lòng về sản phẩm mua lần này."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ha Nguyen",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "117 Đánh giá",
+                "liked_count": "44 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách của Gia Cát Khổng Minh, đời Tam Quốc Dự đoán vinh hoa phú quý, nhìn thấu những thăng trầm, may rủi trong cuộc đời mỗi người"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Thành Toàn",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "79 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đep nội dung đáng tham khảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham Ngoc Quoc Duy",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ Thương",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "59 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sp tốt so với giá cả"
+            }
+        }
+    ]
+}

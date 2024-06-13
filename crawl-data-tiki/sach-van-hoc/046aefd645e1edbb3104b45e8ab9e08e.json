@@ -1,0 +1,82 @@
+{
+    "info": {
+        "title": "Cuốn Tiểu Thuyết Cực Hay Của Diệp Lạc Vô Tâm: Như Chỉ Mới Hôm Qua",
+        "author": "Diệp Lạc Vô Tâm"
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 7
+    },
+    "details": {
+        "Công ty phát hành": "Đinh Tị",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyen Thi Thu Anh",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "219 Đánh giá",
+                "liked_count": "15 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pn Tn Pht",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "nhã ka",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "thương thương",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "18 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan An Viễn",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

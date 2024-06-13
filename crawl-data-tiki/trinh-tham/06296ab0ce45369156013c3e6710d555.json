@@ -1,0 +1,42 @@
+{
+    "info": {
+        "title": "COMBO 5 cuốn sách của tác giả Lôi Mễ:: đề thi đẫm máu + Cuồng vọng phi nhân tính + Sông ngầm + Ánh sáng thành phố + Tâm nguyện cuối cùng",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 3.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "Cổ Nguyệt Books",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Huynh Khắc Thắng",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Đặt combo 6 cuốn sách Lôi Mễ 656,000, gửi về 1 cuốn không liên quan giá 160,000. 1 là lừa đảo 2 hoặc là dịch vụ quá kém"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Thanh Hải",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "info": {
+        "title": "Combo 2 Cuốn Sách Bách Khoa Toàn Thư - Kỳ Quan Thế Giới, Bí Ẩn Của Lịch Sử- Tổng Hợp Kiến Thức Về Lịch Sử, Địa Lý, Du Lịch Khám Phá Thế Giới - Á Châu Books Bìa Cứng, In Màu",
+        "author": "nhieu tac gia"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Công ty phát hành": "Công ty cổ phần đầu tư và phát triển giáo dục quốc tế Á Châu",
+        "Ngày xuất bản": "2021-04-19 14:04:09",
+        "Loại bìa": "Bìa cứng",
+        "Số trang": "510",
+        "Nhà xuất bản": "Nhà Xuất Bản Lao Động"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Mai Minh Ang Thúy",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Tùng Lâm",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "115 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Anh Tuấn",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "33 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

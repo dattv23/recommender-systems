@@ -1,0 +1,83 @@
+{
+    "info": {
+        "title": "Tư Vấn Bảo Hiểm - Những Kỹ Năng Không Ai Nói Với Bạn (Trọn Bộ 4 Tập)",
+        "author": "Lê Minh"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 15
+    },
+    "details": {
+        "Công ty phát hành": "NXB Đà Nẵng",
+        "Phiên bản": "Thường",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp Đà Nẵng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ Thị Nhung",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Ulatroi em mới vào ngành BHNT được hơn 6 tháng, ko đi theo con đường telesales, yêu thích sự tự do sáng tạo. Cực yêu tư tưởng của tác giả, mua sách thì nhiều nhưng đây là lần đầu em viết nhận xét để cảm...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Lê",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "15 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nội dung thực sự rất chất lượng, đúng nghĩa thực chiến, chứ không lý thuyết sáo rỗng như một số cuốn sách bảo hiểm khác trên thị trường. Hy vọng tác giả sẽ tiếp tục xuất bản thêm nhiều cuốn sách hay như...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hà",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "54 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng khá nhanh. Mình chưa đọc hết bộ nh thấy nhiều thông tin hữu ích cho mình trong cách làm nghề."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thiện",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tuyệt vời"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Nhật Khôi",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

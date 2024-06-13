@@ -1,0 +1,82 @@
+{
+    "info": {
+        "title": "Combo 2 cuốn Anh ngữ dễ dàng: My First 2000 English Words - English Primer",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 15
+    },
+    "details": {
+        "Công ty phát hành": "CÔNG TY TNHH IN VÀ TM TUẤN VIỆT",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn  Đức",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "32 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng sách phù hợp với giá thành."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "hoa baby",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách rất đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Gấm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "159 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "giao hàng nhanh, sách đẹp. Đóng gói cẩn thận."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thương Lò Thị",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "395 Đánh giá",
+                "liked_count": "12 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đóng gói cẩn thận, giao hàng nhanh. Sách chất lượng tốt đã mua của shop nhiều lần."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan Thi Hong Hai",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "156 Đánh giá",
+                "liked_count": "18 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

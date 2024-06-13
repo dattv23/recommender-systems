@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Huyễn Tưởng Về Trí Tuệ Nhân Tạo",
+        "author": "Gary Smith"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 19
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2021-04-01 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Dịch Giả": "Kim Phụng",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "420",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Đức Giang",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "50 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "đẹp & hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Tất Thắng",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "88 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tú Tú",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "116 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "DAO VAN TUYET",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "345 Đánh giá",
+                "liked_count": "10 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duy Ngô",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "40 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Học Tiếng Anh Siêu Thú Vị : Sách Luyện - Tập 3",
+        "author": "Sasbadi Group"
+    },
+    "rating": {
+        "total_rating": 4.3,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhã Nam",
+        "Ngày xuất bản": "2018-10-05 00:00:00",
+        "Kích thước": "19x26,3 cm",
+        "Dịch Giả": "Bồ Câu",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "30",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Sơn Phú Quán",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "74 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "kiên phạm",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "49 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh Tấn Tài",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "13 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng Long",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "CỬA HÀNG ONLIN THÁI HÀ",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Tiki giao hàng nhanh. Mình đặt 8/8 đến 9/8 là nhận đc nha. Cách đóng gói của Tiki sơ Sài chỉ có sách và hộp ko có bọc chống sốc và bọc kính"
+            }
+        }
+    ]
+}

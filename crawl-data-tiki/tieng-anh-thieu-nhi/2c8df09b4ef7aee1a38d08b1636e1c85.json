@@ -1,0 +1,43 @@
+{
+    "info": {
+        "title": "Tiếng Anh 3 I-Learn Smart Start - Student's Book",
+        "author": "Nhiều tác giả"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 2
+    },
+    "details": {
+        "Công ty phát hành": "CÔNG TY TNHH EDUCATION SOLUTIONS VIỆT NAM",
+        "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+        "Nhà xuất bản": "Nhà Xuất Bản Đại Học Sư Phạm TPHCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trí Lâm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Duy Nam Phong",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Hàng chuẩn"
+            }
+        }
+    ]
+}

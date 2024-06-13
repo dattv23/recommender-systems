@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Combo Trinh Thám Giây Thứ 12 (2 Tập)",
+        "author": "Sunness"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 17
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Phúc Minh",
+        "Ngày xuất bản": "2019-04-01 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Dịch Giả": "Tú Phương",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "464",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "BẾ  VÂN ĐÀI",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "514 Đánh giá",
+                "liked_count": "87 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Do thấy trailer phim nên mới mua sách đọc, sách mới, tiki giao hàng nhanh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hatram doa",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng sản phẩm ok nhưng hơi bị bẩn ở góc, giao hàng nhanh cực"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh Quốc Việt",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "12 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuỳ Trang",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham An",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "168 Đánh giá",
+                "liked_count": "11 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mình đang xem phim nên mua truyện đọc luôn. Sách bìa ok."
+            }
+        }
+    ]
+}

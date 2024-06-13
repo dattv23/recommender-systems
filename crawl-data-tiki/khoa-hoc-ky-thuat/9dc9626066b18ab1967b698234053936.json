@@ -1,0 +1,72 @@
+{
+    "info": {
+        "title": "Mô Hình Đất Nền Địa Kỹ Thuật Ứng Dụng Trong Plaxis Software - Tập 1",
+        "author": "Trà Thanh Phương"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 4
+    },
+    "details": {
+        "Công ty phát hành": "NXB Xây Dựng",
+        "Ngày xuất bản": "2022-01-01 00:00:00",
+        "Kích thước": "19x27 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "180",
+        "Nhà xuất bản": "Nhà Xuất Bản Xây Dựng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ Trầm",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Minh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "158 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Binh An",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương Minh Nghiệm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

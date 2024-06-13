@@ -1,0 +1,33 @@
+{
+    "info": {
+        "title": "Tự do kinh tế - Đòn bẩy phát triển Việt Nam",
+        "author": "Trần Lê Anh"
+    },
+    "rating": {
+        "total_rating": 2.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "-",
+        "Ngày xuất bản": "2018-12-25 21:59:18",
+        "Kích thước": "13 x 20,5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "292",
+        "Nhà xuất bản": "Nhà Xuất Bản Tri Thức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "LÂM BẢO ANH",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "369 Đánh giá",
+                "liked_count": "24 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 2,
+                "title": "Không hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

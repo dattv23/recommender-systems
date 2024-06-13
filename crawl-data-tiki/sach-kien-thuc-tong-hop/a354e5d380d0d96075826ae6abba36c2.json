@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Bí Mật Âm Dương Ngũ Hành (Bìa Cứng)",
+        "author": "Lý Kế Dũng"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "Nhà sách Minh Thắng",
+        "Ngày xuất bản": "2020-06-01 00:00:00",
+        "Kích thước": "19 x 27 cm",
+        "Dịch Giả": "Nguyễn Lệ Quyên",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "560",
+        "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Dương Thị Nụ",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Khắc Đức Duy",
+                "date": "Đã tham gia 1 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huynh Phuong",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "119 Đánh giá",
+                "liked_count": "20 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuy Phương",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "173 Đánh giá",
+                "liked_count": "11 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Giao hàng nhanh, giá tạm ổn hety ngày salee mới mua nên đành chấp nhận. Kỳ này tiki giao bên best mình rất không hài lòng. Không cho kiểm hàng trong khi hàng vận chuyển tới te tua rách nát. May là sách...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Hương",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "29 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Sách hay, tiki hay giảm giá, nhân viên giao hàng lịch sự, đặt hàng đều giao sớm, ko chờ đợi lâu"
+            }
+        }
+    ]
+}

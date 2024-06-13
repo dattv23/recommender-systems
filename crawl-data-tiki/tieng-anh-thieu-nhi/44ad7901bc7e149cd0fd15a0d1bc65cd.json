@@ -1,0 +1,59 @@
+{
+    "info": {
+        "title": "Level 5: Cuốn Sách Lớn Về Từ Vựng Tiếng Anh - Big Book Of English Words",
+        "author": "Mairi Mackinnon"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Công ty phát hành": "Quảng Văn",
+        "Ngày xuất bản": "2018-11-01 00:00:00",
+        "Kích thước": "24 x 29 cm",
+        "Dịch Giả": "Ngô Loan",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Thanh Huyền",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "187 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Thị Thu Hiền",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "22 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Con gái rất thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Minh Hằng",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

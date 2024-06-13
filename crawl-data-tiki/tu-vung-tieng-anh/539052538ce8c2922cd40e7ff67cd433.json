@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "DESTINATION B1 - Ngữ pháp và từ vựng tiếng anh tập 2",
+        "author": "Nhiều tác giả"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 7
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Nhà sách Minh Thắng",
+        "Ngày xuất bản": "2022-05-01 00:00:00",
+        "Kích thước": "19 x 27 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "272",
+        "Nhà xuất bản": "Nhà Xuất Bản Đại Học Quốc Gia Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Hải Phong",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "273 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cham Le",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Văn Thanh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "37 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Thu Trang",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "70 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "lykee ha ngo",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "47 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

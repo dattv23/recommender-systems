@@ -1,0 +1,34 @@
+{
+    "info": {
+        "title": "Perfect English Grammar: Tất Tần Tật Về Ngữ Pháp Tiếng Anh",
+        "author": "Patra Patphureerat"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Alphabooks",
+        "Ngày xuất bản": "2022-08-01 00:00:00",
+        "Kích thước": "16.0x24.0cm",
+        "Dịch Giả": "Ngô Hồng Quân",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "456",
+        "Nhà xuất bản": "Nhà Xuất Bản Dân Trí"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Ngọc Quỳnh Trang",
+                "date": "Đã tham gia 14 năm",
+                "review_count": "49 Đánh giá",
+                "liked_count": "42 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "info": {
+        "title": "Trường An Ly Ca - Tập 3 : Cao Sơn Lưu Thủy",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "Nhã Nam",
+        "Nhà xuất bản": "Nhà Xuất Bản Hà Nội"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Camellia Duong",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "224 Đánh giá",
+                "liked_count": "8 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

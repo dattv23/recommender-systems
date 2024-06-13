@@ -1,0 +1,71 @@
+{
+    "info": {
+        "title": "Combo Bộ sách Ngữ âm tiếng anh quốc tế 3 cấp độ Sơ cấp - Trung cấp - Nâng cao (kèm đĩa CD)",
+        "author": "Lê Thị Hiệp"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 4
+    },
+    "details": {
+        "Công ty phát hành": "Công ty TNHH Phát triển giáo dục quốc tế AMAIN",
+        "Ngày xuất bản": "2018-08-24 17:14:35",
+        "Loại bìa": "BOOK WITH CD",
+        "Số trang": "290",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn ngọc lưu",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách đẹp,  chữ viết hình ảnh trình bày logic, sống động. giúp mình cảm thấy hứng thú khi học."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tabi Nguyễn",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Sách chất lượng!",
+                "content": "Dựa vào logo mình đã liên hệ riêng với shop để được tư vấn! Ad tư vấn nhiệt tình và giữ đúng cam kết!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan Thảo",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "cảm ơn shop nhiều ^^ \nsách viết chú trọng vào phần phát âm, nhấn âm, ngữ điệu nói và nối âm trong câu đoạn văn giúp mình rèn luyện đc khả năng phát âm tiếng anh."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "nguyen hanh linh",
+                "date": "Đã tham gia 11 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

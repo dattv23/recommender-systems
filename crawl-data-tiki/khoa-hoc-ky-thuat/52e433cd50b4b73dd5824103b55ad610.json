@@ -1,0 +1,34 @@
+{
+    "info": {
+        "title": "Khoa Học Khám Phá - Vũ Trụ Toàn Ảnh",
+        "author": "Michael Talbot"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Công ty phát hành": "NXB Trẻ",
+        "Ngày xuất bản": "2018-01-03 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Dịch Giả": "Phạm Văn Thiều, Nguyễn Đình Điện",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "516",
+        "Nhà xuất bản": "NXB Trẻ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tống Quỳnh anh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "61 Đánh giá",
+                "liked_count": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

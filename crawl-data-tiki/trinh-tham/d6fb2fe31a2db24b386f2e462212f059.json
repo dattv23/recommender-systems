@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Hạn Chót Lúc Bình Minh",
+        "author": "Cornell Woolrich"
+    },
+    "rating": {
+        "total_rating": 3.6,
+        "number_of_rating": 5
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Phúc Minh Books",
+        "Ngày xuất bản": "2019-05-01 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Dịch Giả": "Lê Đình Chi",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "368",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Bin Bin",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Nhận xét?",
+                "content": "Bìa sách màu tối hơn ảnh\nPhía trên sách bị bẩn ít\nBìa sách khá là mềm\nSách nhỏ gọn\nNội dung thì mình chưa đọc ah"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dinh Thi Ngoc Tham",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tan Nguyen",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Bìa bị gập",
+                "content": "Sách mới bọc tốt hai bên mép bìa bị gập đánh giá 4*"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le Ngoc Tan",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "429 Đánh giá",
+                "liked_count": "22 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Sách bị bẩn và cũ, mình muốn đổi lại"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mèo Nơ",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "113 Đánh giá",
+                "liked_count": "77 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Sách hay, bìa đẹp, đọc lôi cuốn",
+                "content": "Vẫn đang đọc nhưng cảm thấy hay. Tác giả xây dựng câu chuyện tốt, cả series cũng rất chất lượng."
+            }
+        }
+    ]
+}

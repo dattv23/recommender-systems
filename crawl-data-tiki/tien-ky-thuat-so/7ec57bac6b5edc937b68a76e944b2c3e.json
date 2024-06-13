@@ -1,0 +1,71 @@
+{
+    "info": {
+        "title": "NFT - Cuộc Cách Mạng Công Nghệ Tiếp Nối Blockchain Và Kỷ Nguyên Tiền Điện Tử - Marc Beckman",
+        "author": "Marc Beckman"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 4
+    },
+    "details": {
+        "Công ty phát hành": "1980 Books",
+        "Dịch Giả": "Hạnh Dung",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "296",
+        "Nhà xuất bản": "Nhà Xuất Bản Công Thương"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Như Hòa",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách in đẹp, giao hàng nhanh chóng, rất đáng để đọc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng Đăng Khoa",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "46 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sẽ đọc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ho Thi Phuơng Linh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "147 Đánh giá",
+                "liked_count": "13 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn Hào",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "55 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

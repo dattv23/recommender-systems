@@ -1,0 +1,60 @@
+{
+    "info": {
+        "title": "Combo Con Số Ngộ Nghĩnh và Màu Sắc Đậm Đà",
+        "author": "Lizzy Doyle"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 3
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Megabook",
+        "Ngày xuất bản": "2022-07-01 00:00:00",
+        "Kích thước": "15x15cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "24",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Niên"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê trâm",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "19 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách quá đẹp, rất phù hợp với trẻ 1-2 tuổi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hân Lê",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp giá tốt. Phù hợp, giấy cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô Hồ Minh Ngọc",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "43 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

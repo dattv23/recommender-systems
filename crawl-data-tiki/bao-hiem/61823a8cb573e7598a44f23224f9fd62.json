@@ -1,0 +1,83 @@
+{
+    "info": {
+        "title": "Tư Vấn Bảo Hiểm - Những Kỹ Năng Không Ai Nói Với Bạn (Tập 2,3)",
+        "author": "Lê Minh,"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 9
+    },
+    "details": {
+        "Công ty phát hành": "NXB Tổng Hợp Đà Nẵng",
+        "Phiên bản": "thường",
+        "Loại bìa": "Bìa mềm",
+        "Nhà xuất bản": "Nhà Xuất Bản Đà Nẵng"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê Hằng",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "5 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mở sách ra thất vọng quá \nRách mất 1 trang \nIn lệch dòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà Nguyễn",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "23 Đánh giá",
+                "liked_count": "17 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách chia sẻ nhiều kinh nghiệm sát với thực tế, rất khác biệt. Cảm ơn tác giả!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Đức Huy",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "31 Đánh giá",
+                "liked_count": "11 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay, kiến thức trong này đi rất sát thực tế. Cám ơn những kiến thức tinh hoa của tác giả. Chúc anh luôn thành công!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Mai Huê",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Đóng cẩn thận, sách đẹp xịn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "phạm linh",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

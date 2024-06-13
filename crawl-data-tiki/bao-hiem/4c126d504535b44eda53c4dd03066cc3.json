@@ -1,0 +1,358 @@
+{
+    "info": {
+        "title": "Nghệ Thuật Tư Vấn Bảo Hiểm Nhân Thọ",
+        "author": "Đặng Đình Chính"
+    },
+    "rating": {
+        "total_rating": 3.7,
+        "number_of_rating": 26
+    },
+    "details": {
+        "Công ty phát hành": "Đặng Đình Chính",
+        "Ngày xuất bản": "2019-01-09 12:01:59",
+        "Kích thước": "14,5 x 20,5 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "160",
+        "Nhà xuất bản": "Nhà Xuất Bản Lao Động"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thanh Phương",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "27 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nội dung đơn giản, dễ hiểu, mang tính thực tế."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào Tạo Bảo Hiểm",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Cuốn sách hay, nội dung ngắn gọn, dễ đọc",
+                "content": "Cuốn sách hay, nội dung ngắn gọn và dễ đọc. Có một số ý tưởng có thể áp dụng thường xuyên vào tư vấn khách hàng và chăm sóc khách hàng rất tốt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan Vinh",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "LÝ THỊ HÀ",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Quyển sách rất hữu ích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Anh Hào",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sống Khác Đi",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "hôm nay nhận hàng rất ok ạ . đọc thấy rất hữu ích. đóng gói đẹp ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trâm Phạm",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "12 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Ngọc Hà Hà",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "6 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tong Kim Uyen",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sunflower",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "9 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Lan",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Sách hay",
+                "content": "Sách hay, giấy đẹp, giao hàg nhanh. Cảm ơn shop sẽ ủng hộ tiếp."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh Thị Hằng",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Thái Dương",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "17 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Sản phẩm in lỗi",
+                "content": "sản phẩm bị lỗi in ấn, tôi đã liên hệ với bộ phận CSKH để đổi sản phẩm khác"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khanh Huynh",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Sách 1 cuốn nhưng để hình 2 cuốn sách làm người mua hiểu nhầm là 2 cuốn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyet Phung Que Chau",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "nhiều ý tưởng cho việc tư vấn bảo hiểm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhat Duong",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "22 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tài khoản Zalo",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "12 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khách Hàng",
+                "date": "",
+                "review_count": "0 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Bìa sách đẹp, giấy in tốt. Nội dung ngắn, ý tưởng không hay. Giá bán quá cao so với giá trị quyển sách."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Trong Tuan",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Nhận xét",
+                "content": "Bạn viết hay và tâm huyết, nhưng nếu có phân tích, thêm các câu truyện thực tế sẽ hấp dẫn hơn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê Thị Hiền",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "Giá hơi cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chế Thanh Quảng",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "68 Đánh giá",
+                "liked_count": "15 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "sách có nội dung hay, rất cần thiết cho dân bảo hiểm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran Cong Tuong",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Sách quá dỡ. Nội dung rất tệ. Giá mắc."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Ngọc Thảo",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "11 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thành Lê",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "39 Đánh giá",
+                "liked_count": "8 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Không hay",
+                "content": "Sản phẩm có nội dung không thực sự hay. Giá thành lại cao."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn luyện",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong Dieu",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 3,
+                "title": "Bình thường",
+                "content": ""
+            }
+        }
+    ]
+}

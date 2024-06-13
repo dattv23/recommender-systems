@@ -1,0 +1,85 @@
+{
+    "info": {
+        "title": "Sách ngữ âm dành cho người mới bắt đầu",
+        "author": "Lê Thị Hiệp"
+    },
+    "rating": {
+        "total_rating": 4.5,
+        "number_of_rating": 8
+    },
+    "details": {
+        "Công ty phát hành": "Công ty TNHH Phát triển giáo dục quốc tế AMAIN",
+        "Ngày xuất bản": "2018-08-24 20:44:03",
+        "Kích thước": "21 X 29 Cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "88",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Le Van Long",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "15 Đánh giá",
+                "liked_count": "14 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "sách hay có bảng phiên âm và hướng dẫn cụ thể, dễ học",
+                "content": "Sách rất thú vị, nhiều âm, từ sau khi nghe đĩa mới phát hiện mình phát âm còn sai nhiều chỗ, dự định mua cho bé nhà học nhưng mình cùng con học luôn, chất sách đẹp, nội dung hình ảnh sinh động dễ học,...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tang Tang",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "21 Đánh giá",
+                "liked_count": "45 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Sách ổn và có đầu tư về hình ảnh.",
+                "content": "Sách phù hợp cho những người mới bắt đầu và cần xây phần phát âm từ những viên gạch đầu tiên.\n\nTuy nhiên theo mình, phần audio thật sự chưa hữu ích và phát huy nhiều cho lắm. Nếu chọn mua sách, bạn nên...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thành Trung",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách hay dễ học"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham Van Hau",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dang Ho le Minh",
+                "date": "Đã tham gia 8 năm",
+                "review_count": "203 Đánh giá",
+                "liked_count": "35 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

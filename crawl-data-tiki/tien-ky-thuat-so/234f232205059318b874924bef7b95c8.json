@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Combo 4 Cuốn: Xu Hướng Bitcoin Và Tương Lai Tiền Tệ",
+        "author": "Nhiều tác giả"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 7
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "1980 Books",
+        "Ngày xuất bản": "2022-01-01 00:00:00",
+        "Kích thước": "13 x 20 cm",
+        "Dịch Giả": "Nhiều Dịch Giả",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "250",
+        "Nhà xuất bản": "Nhiều Nhà Xuất Bản"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ Văn Hoàng",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp đóng gói cẩn thận, giao hàng rất nhanh ạ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "nguyễn thị tính",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "520 Đánh giá",
+                "liked_count": "62 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều Mình cảm ơn shop nhiều"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Miu Nguuyễn",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "20 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "tiki giao hàng nhanh, đóng gói sách cẩn thận. sách sạch đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tr Huy V",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "17 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tạ quốc Tuấn",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "144 Đánh giá",
+                "liked_count": "7 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "cảm ơn shop, sách tốt, giá sale quá hời"
+            }
+        }
+    ]
+}

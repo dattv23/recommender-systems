@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Perfect English Vocabulary: Tất Tần Tật Về Từ Vựng Tiếng Anh Gen Z",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 4.9,
+        "number_of_rating": 11
+    },
+    "details": {
+        "Công ty phát hành": "Alphabooks",
+        "Ngày xuất bản": "2022-08-01 00:00:00",
+        "Kích thước": "16.0x24.0cm",
+        "Dịch Giả": "Ngô Hồng Quân",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "304",
+        "Nhà xuất bản": "Nhà Xuất Bản Dân Trí"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Minh Hoàng",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "39 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng nhanh.\r\nChất lượng tốt, từ vựng được phân rõ theo từng chủ đề, có phần bài tập để ôn luyện, màu sắc sinh động."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài Anh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "8 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng giấy tốt, nội dung dễ học thuộc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hng Phc",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách hay, giá bình dân"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương Việt An",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "35 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham Anh",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "77 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}
