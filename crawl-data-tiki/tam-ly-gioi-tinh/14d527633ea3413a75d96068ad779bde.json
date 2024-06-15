@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Cẩm Nang Tuổi Dậy Thì Dành Cho Bạn Trai",
+        "author": "Từ Ninh"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 5
+    },
+    "details": {
+        "Công ty phát hành": "Minh Long",
+        "Ngày xuất bản": "2017-03-01 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Phiên bản": "2017",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "244",
+        "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ngô Hà Trang",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bunny Nguyễn",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "47 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "MS Minh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "66 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "VUONG THU HUONG",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "22 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ Hà",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "10 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

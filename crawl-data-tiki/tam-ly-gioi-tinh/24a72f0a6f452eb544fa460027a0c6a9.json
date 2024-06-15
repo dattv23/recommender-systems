@@ -1,0 +1,35 @@
+{
+    "info": {
+        "title": "Gia Đình Độc Hại",
+        "author": "Shea M.Dunham,"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 1
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "1980 Books",
+        "Ngày xuất bản": "2023-08-01 00:00:00",
+        "Kích thước": "13 x 20.5 cm",
+        "Dịch Giả": "Nguyễn Thanh Bình",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "340",
+        "Nhà xuất bản": "Nhà Xuất Bản Lao Động"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Mark Tú Huỳnh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "802 Đánh giá",
+                "liked_count": "30 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

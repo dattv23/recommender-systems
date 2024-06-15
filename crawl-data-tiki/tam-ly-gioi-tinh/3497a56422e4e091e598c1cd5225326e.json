@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Tâm Lý Học Nói Gì Về Thời Trang? -Tặng kèm bookmark",
+        "author": "Carolyn Mair"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Read Books",
+        "Ngày xuất bản": "2022-07-01 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Dịch Giả": "Nguyên Minh",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "216",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thu Thảo",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách rất ổn, nội dung thì tùy thuộc vào từng cá nhân nên mình không đánh giá gì về phần này, mua sách trên Tiki thì không có gì phải lo lắng cả. Sách giao siêu nhanh rồi 😁😁😁😁"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rio rio",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "92 Đánh giá",
+                "liked_count": "20 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Vẻ như rất là hợp nhau. Đáng đọc."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngan Pham",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "110 Đánh giá",
+                "liked_count": "21 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách tuy mỏng và giá rẻ nhưng nội dung rất xịn. Có kiến thức chuyên ngành về tâm lý và thời trang thì nên mua nha."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Bùi Quốc Dũng",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "90 Đánh giá",
+                "liked_count": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen my",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "16 Đánh giá",
+                "liked_count": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

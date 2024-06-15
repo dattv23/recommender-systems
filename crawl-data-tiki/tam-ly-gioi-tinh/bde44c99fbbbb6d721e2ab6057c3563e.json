@@ -1,0 +1,68 @@
+{
+    "info": {
+        "title": "Tâm lý học hành vi",
+        "author": null
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 4
+    },
+    "details": {
+        "Công ty phát hành": "1980 Books",
+        "Nhà xuất bản": "Nhà Xuất Bản Thanh Niên"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Mark Tú Huỳnh",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "802 Đánh giá",
+                "liked_count": "30 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huy Trần",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "81 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thế Vi",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1101 Đánh giá",
+                "liked_count": "16 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh Truong",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "280 Đánh giá",
+                "liked_count": "30 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 4,
+                "title": "Hài lòng",
+                "content": "giao hàng nhanh"
+            }
+        }
+    ]
+}

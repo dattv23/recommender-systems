@@ -1,0 +1,84 @@
+{
+    "info": {
+        "title": "Combo Tâm Lý Học Hành Vi và Tâm Lý Học Biểu Cảm - Sổ Tay",
+        "author": "Khương Nguy,"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "AZ Việt Nam",
+        "Dịch Giả": "Phi Tường",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "528",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Thư",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng !"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cục Súc",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đẹp, đóng gói cẩn thận"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Phương",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Dang",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "89 Đánh giá",
+                "liked_count": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô Đoan Thục",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Hay lắm"
+            }
+        }
+    ]
+}

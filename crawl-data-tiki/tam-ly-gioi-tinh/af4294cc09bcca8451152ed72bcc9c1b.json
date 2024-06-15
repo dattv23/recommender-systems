@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Trạm Đọc Official | Sách - Tâm Lý Học Đám Đông",
+        "author": "Gustave Le Bon"
+    },
+    "rating": {
+        "total_rating": 4.8,
+        "number_of_rating": 6
+    },
+    "details": {
+        "Công ty phát hành": "Omega Plus",
+        "Ngày xuất bản": "2018-01-01 00:00:00",
+        "Kích thước": "14 x 20.5 cm",
+        "Dịch Giả": "Nguyễn Cảnh Bình, Nguyễn Mai Chi, Đoàn Vân Hà",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "252",
+        "Nhà xuất bản": "Nhà Xuất Bản Thế Giới"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Claude Lévi Strauss",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "30 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách đẹp, đóng gói và giao hàng nhanh như một tia chớp⚡"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuy Dương",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách đóng gói kỹ! Nội dung hay với cá nhân mình!!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm Ngọc Diệp",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "2 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "sách mới, ko gấp gãy, nội dung sẽ review sau"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minhq",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "3 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diu Mysier",
+                "date": "Đã tham gia 4 năm",
+                "review_count": "25 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Hay"
+            }
+        }
+    ]
+}

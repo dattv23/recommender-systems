@@ -1,0 +1,86 @@
+{
+    "info": {
+        "title": "Combo Tâm Lý Học Trong Nháy Mắt 4, 5, 6",
+        "author": "Nhóm Ezpsychology"
+    },
+    "rating": {
+        "total_rating": 5.0,
+        "number_of_rating": 15
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "Công Ty TNHH Sách Và Truyền Thông Việt Nam",
+        "Ngày xuất bản": "2019-01-01 13:54:07",
+        "Kích thước": "16 x 24 cm",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "500",
+        "Nhà xuất bản": "Nhà Xuất Bản Dân Trí"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Thu Hà",
+                "date": "Đã tham gia 10 năm",
+                "review_count": "205 Đánh giá",
+                "liked_count": "13 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Tú Chi",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tôi rất thích bộ sách này. vì có tặng kèm những thẻ ghi chú rất thông minh và tiện ích. đặc biệt tôi nhận sách nhanh. Tôi rất hài lòng. Cảm ơn Tiki"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Hồng Nhung",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "14 Đánh giá",
+                "liked_count": "8 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "mình mua tặng nên ko có mở ra xem bên trong. còn bên ngoài thì đuoẹc bọc plastic rất kỹ càng, đóng gói chắc chắn lắm nha. combo giá rẻ cho những ai yêu thích tâm lý học ?"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mơ Mèo",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "142 Đánh giá",
+                "liked_count": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "trandai vinh",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "474 Đánh giá",
+                "liked_count": "19 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

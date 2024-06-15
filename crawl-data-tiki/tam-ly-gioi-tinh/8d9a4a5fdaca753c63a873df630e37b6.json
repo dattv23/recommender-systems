@@ -1,0 +1,87 @@
+{
+    "info": {
+        "title": "Giải Nai Cho Con Gái (Những Bí Mật Không Dành Cho Con Trai)(Tái Bản)",
+        "author": "Sarah Delmege"
+    },
+    "rating": {
+        "total_rating": 4.4,
+        "number_of_rating": 18
+    },
+    "details": {
+        "Phiên bản sách": "Phiên bản thường",
+        "Công ty phát hành": "First News - Trí Việt",
+        "Ngày xuất bản": "2021-01-01 00:00:00",
+        "Kích thước": "14.5 x 20.5 cm",
+        "Dịch Giả": "Hoa Phượng",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "96",
+        "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Thị Thanh Hải",
+                "date": "Đã tham gia 7 năm",
+                "review_count": "357 Đánh giá",
+                "liked_count": "188 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Cuốn sách siêu dễ thương, rất hợp làm quà tặng cho các bé gái chuẩn bị bước vào tuổi dậy thì..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Thi",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "30 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Oanh Nguyen",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "50 Đánh giá",
+                "liked_count": "12 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran Thu Quynh",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng sách tốt!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ Tiến Giang",
+                "date": "Đã tham gia 5 năm",
+                "review_count": "12 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

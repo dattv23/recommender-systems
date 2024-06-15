@@ -1,0 +1,84 @@
+{
+    "info": {
+        "title": "Sách Bỗng Nhiên Mà Họ Lớn",
+        "author": "Đỗ Hồng Ngọc"
+    },
+    "rating": {
+        "total_rating": 4.0,
+        "number_of_rating": 7
+    },
+    "details": {
+        "Công ty phát hành": "Nhà Xuất Bản Văn Hóa - Văn Nghệ",
+        "Ngày xuất bản": "2018-08-02 00:00:00",
+        "Loại bìa": "Bìa mềm",
+        "Số trang": "162",
+        "Nhà xuất bản": "Nhà Xuất Bản Văn Hóa - Văn Nghệ"
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ Thị Nhàn",
+                "date": "Đã tham gia 6 năm",
+                "review_count": "1 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách bổ ích mn ah"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô Hà Trang",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "7 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Qui Nguyen",
+                "date": "Đã tham gia 9 năm",
+                "review_count": "73 Đánh giá",
+                "liked_count": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim Tran",
+                "date": "Đã tham gia 2 năm",
+                "review_count": "106 Đánh giá",
+                "liked_count": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Cực kỳ hài lòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Hop Tuan Anh",
+                "date": "Đã tham gia 3 năm",
+                "review_count": "4 Đánh giá",
+                "liked_count": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "hay giao nhanh hơn dự kiến!!!"
+            }
+        }
+    ]
+}
